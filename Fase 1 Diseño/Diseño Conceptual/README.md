@@ -92,6 +92,6 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
   - Navegación por teclado con teclas Tab y Enter 
 
 - **Ergonomía**
-  - La interfaz muestra solo la información necesaria (ej. el empleado solo ve los módulos de venta, historial y reportes),       evitando sobrecarga de opciones.
-  - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos”) tienen un lenguaje fácil de entender              facilitando la comprensión.
+  - La interfaz muestra solo la información necesaria (ej. el empleado solo ve los módulos de venta, historial y reportes y       el administrador ve tódos los módulos), evitando sobrecarga de opciones.
+  - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos” etc.) tienen un lenguaje fácil de entender         facilitando la comprensión.
   - El menú lateral, filtros y botones mantienen una estructura fija en cada pantalla, y esto reduce el esfuerzo visual.
