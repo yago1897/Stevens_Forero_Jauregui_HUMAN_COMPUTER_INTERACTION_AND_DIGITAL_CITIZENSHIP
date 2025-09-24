@@ -99,11 +99,12 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
 
 ---
 
-Inicialmente se observa la vista del login donde de acuerdo al perfil o rol del usuario puede acceder con sus credenciales
+Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
+<img width="805" height="373" alt="image" src="https://github.com/user-attachments/assets/750d10d3-7037-44c9-9152-d290898a9f43"/>
+ 
 
-<img width="1276" height="585" alt="image" src="https://github.com/user-attachments/assets/e6e2901e-f65a-4425-aae6-9abb8009461f" />
 
 
-Una vez ingresando con las credenciales con rol "Administrador" accede a la siguiente pantalla como se aprecia en la siguiente imagen
+
 
 
