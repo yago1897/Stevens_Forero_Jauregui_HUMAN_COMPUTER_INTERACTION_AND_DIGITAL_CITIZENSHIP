@@ -4,7 +4,7 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
 
 ---
 Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
-![Uploading image.png…]()
+
 
 
  Roles de usuario
@@ -102,7 +102,7 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
 ---
 
 Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
-![Uploading image.png…]()
+
 
 
 
