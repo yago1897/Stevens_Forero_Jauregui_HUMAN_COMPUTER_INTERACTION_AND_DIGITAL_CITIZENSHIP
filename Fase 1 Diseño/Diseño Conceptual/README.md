@@ -1,3 +1,5 @@
+<img width="808" height="372" alt="image" src="https://github.com/user-attachments/assets/47f6323a-364f-4191-a3cc-77aaf6ab4394" />
+
 # Diseño Conceptual - Sistema Venta Ecommerce
 
 A continuación se especifica **El diseño o estructura conceptual de la aplicación**, la pantalla de login y credenciales, los roles de usuario y los módulos principales del sistema. El objetivo es representar de manera clara como está organizado la interfaz y las funciones antes de pasar al diseño detallado.
