@@ -1,1 +1,3 @@
 # Stevens_Forero_Jauregui_HUMAN_COMPUTER_INTERACTION_AND_DIGITAL_CITIZENSHIP
+
+![Uploading image.png…]()
