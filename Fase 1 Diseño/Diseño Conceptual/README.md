@@ -101,6 +101,7 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
 ---
 
 Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
+![Uploading image.png…]()
 
 
 
