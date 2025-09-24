@@ -107,7 +107,6 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil o rol del 
 <img width="1265" height="556" alt="image" src="https://github.com/user-attachments/assets/79f0baff-8ee2-49ed-9db8-8c5230813d7e" />
 
 Una vez ingresando con las credenciales con rol "Administrador" accede a la siguiente pantalla donde por ser administrador tiene acceso a todos los módulos de la app como se aprecia en la siguiente imagen:
-
 <img width="1277" height="452" alt="image" src="https://github.com/user-attachments/assets/02a58835-babd-4e99-8586-d0af7647eb07" />
 
 
