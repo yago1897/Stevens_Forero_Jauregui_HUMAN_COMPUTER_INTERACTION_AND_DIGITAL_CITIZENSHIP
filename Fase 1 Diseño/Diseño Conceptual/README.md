@@ -77,24 +77,21 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
 
 ---
 
-🎨 Principios de diseño aplicados
+# Principios de diseño centrado en el usuario (HCI) aplicados #
+- **Usabilidad - Consistencia visual**
+  - Todos los módulos utilizan la misma barra lateral de navegación.
+  - Los iconos, botones y colores se mantienen uniformes en cada pantalla.
+  - La visibilidad del estado del sistema es eficiente al usarlo
+  - La ejecución de las taréas en cada una de las operaciones CRUD cumple con las métricas de usabilidad
 
-Consistencia visual
 
-Todos los módulos utilizan la misma barra lateral de navegación.
+- **Accesibilidad**
+  - Contraste de colores verificado con WAVE siguiendo los estándares de WCAG 2.1.
+  - Contraste y legibilidad y uso de tipografía legible en botones con etiquetas claras.
+  - Texto alternativo en imágenes e íconos
+  - Navegación por teclado con teclas Tab y Enter 
 
-Los iconos y colores se mantienen uniformes en cada pantalla.
-
-Accesibilidad
-
-Contraste de colores verificado con WAVE.
-
-Uso de tipografía legible y botones con etiquetas claras.
-
-Roles diferenciados
-
-La visibilidad de las opciones varía según el rol:
-
-Administrador: acceso total.
-
-Empleado: acceso limitado.
+- **Ergonomía**
+  - La interfaz muestra solo la información necesaria (ej. el empleado solo ve los módulos de venta, historial y reportes),       evitando sobrecarga de opciones.
+  - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos”) tienen un lenguaje fácil de entender              facilitando la comprensión.
+  - El menú lateral, filtros y botones mantienen una estructura fija en cada pantalla, y esto reduce el esfuerzo visual.
