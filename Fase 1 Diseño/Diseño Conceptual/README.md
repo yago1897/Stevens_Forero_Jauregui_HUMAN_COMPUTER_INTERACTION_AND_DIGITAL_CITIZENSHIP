@@ -113,6 +113,24 @@ Una vez ingresando con las credenciales con rol "Administrador" accede a la sigu
 Módulo de "DashBoard"
 <img width="1280" height="601" alt="image" src="https://github.com/user-attachments/assets/b1bec094-6750-4a2b-8ac3-0d19fae5dffd" />
 
+Módulo Usuarios
+<img width="1276" height="551" alt="image" src="https://github.com/user-attachments/assets/4271922b-a330-481b-a674-de6dc7ffc796" />
+
+Agregar un Usuario
+<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/0eefa06a-96a0-4816-9e3a-ce7b31c91163" />
+
+Editar usuario - se presiona en el ícono del lápiz como se aprecia en la imagen
+<img width="1220" height="600" alt="image" src="https://github.com/user-attachments/assets/1d1011c9-5410-4bbb-b739-40cbdc7d9a80" />
+
+Eliminar un usuario - se presiona en el ícono del recicalje como se aprecia en la imagen
+<img width="1189" height="562" alt="image" src="https://github.com/user-attachments/assets/f5c9455c-d72e-4f40-a7b6-4d7d789790df" />
+
+
+
+
+
+
+
 
 
 
