@@ -99,7 +99,7 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
   - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos” etc.) tienen un lenguaje fácil de entender facilitando la comprensión.
   - El menú lateral izquierdo, filtros y botones mantienen una estructura fija en cada pantalla, y esto reduce el esfuerzo visual.
 
-
+---
 
 
 
