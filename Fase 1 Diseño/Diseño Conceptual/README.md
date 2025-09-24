@@ -168,14 +168,16 @@ Módulo ventas - se busca el productom se elije la cantidad y se agrega al botó
 
 ---
 
-Módulo Historial de ventas
+Módulo "Historial de ventas":
+
 En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se presiona en el botón "Buscar", luego se presiona en el ícono del ojo, que es el detalle de la venta y se refleja el detalle de la compra como se aprecia en la imagen
 
 <img width="1242" height="538" alt="image" src="https://github.com/user-attachments/assets/c891fdc3-62bd-43f7-909d-dc8ba29d1d31" />
 
 ---
 
-Módulo Reportes
+Módulo "Reportes"
+
 En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se presiona en el botón "Buscar", luego se habilita el botón de "Exportar a excel" para su descarga y visualización como se ve en las imágenes
 
 <img width="1228" height="537" alt="image" src="https://github.com/user-attachments/assets/94bf6e4c-1b49-4465-b881-bccb0b36e457" />
