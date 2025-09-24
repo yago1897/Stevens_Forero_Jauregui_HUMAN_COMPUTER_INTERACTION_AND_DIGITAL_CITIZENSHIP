@@ -1,8 +1,9 @@
 # Diseño Conceptual - Sistema Venta Ecommerce
 
-A continuación se especifica **El diseño o estructura conceptual de la aplicación**, los roles de usuario y los módulos principales del sistema. El objetivo es representar de manera clara como está organizado la interfaz y las funciones antes de pasar al diseño detallado.
+A continuación se especifica **El diseño o estructura conceptual de la aplicación**, la pantalla de login y credenciales, los roles de usuario y los módulos principales del sistema. El objetivo es representar de manera clara como está organizado la interfaz y las funciones antes de pasar al diseño detallado.
 
 ---
+Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
 
  Roles de usuario
 
@@ -95,3 +96,14 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
   - La interfaz muestra solo la información necesaria (ej. el empleado solo ve los módulos de venta, historial y reportes y el administrador ve tódos los módulos), evitando sobrecarga de opciones.
   - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos” etc.) tienen un lenguaje fácil de entender facilitando la comprensión.
   - El menú lateral izquierdo, filtros y botones mantienen una estructura fija en cada pantalla, y esto reduce el esfuerzo visual.
+
+---
+
+Inicialmente se observa la vista del login donde de acuerdo al perfil o rol del usuario puede acceder con sus credenciales
+
+<img width="1276" height="585" alt="image" src="https://github.com/user-attachments/assets/e6e2901e-f65a-4425-aae6-9abb8009461f" />
+
+
+Una vez ingresando con las credenciales con rol "Administrador" accede a la siguiente pantalla como se aprecia en la siguiente imagen
+
+
