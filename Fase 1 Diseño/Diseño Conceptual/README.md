@@ -74,3 +74,27 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
    ├── Venta     (Administrador y empleado)
    ├── Historial de Ventas (Administrador y empleado)
    └── Reportes            (Administrador y empleado)
+
+---
+
+🎨 Principios de diseño aplicados
+
+Consistencia visual
+
+Todos los módulos utilizan la misma barra lateral de navegación.
+
+Los iconos y colores se mantienen uniformes en cada pantalla.
+
+Accesibilidad
+
+Contraste de colores verificado con WAVE.
+
+Uso de tipografía legible y botones con etiquetas claras.
+
+Roles diferenciados
+
+La visibilidad de las opciones varía según el rol:
+
+Administrador: acceso total.
+
+Empleado: acceso limitado.
