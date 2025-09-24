@@ -140,6 +140,30 @@ Eliminar un producto
 
 <img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/f743cb78-3829-4ba7-8884-c35b898891cc" />
 
+Módulo ventas - se busca el productom se elije la cantidad y se agrega al botón del carrito, se refleja el valor total y por último se registra la venta, hay un ícono de reciclaje por si se desea eliminar el producto para cambiar por otro como se aprecia en la imagen con las flechas señaladas en color rojo
+
+<img width="1232" height="492" alt="image" src="https://github.com/user-attachments/assets/11e14295-fdd2-4a1c-808a-96262f1ade74" />
+
+<img width="1278" height="547" alt="image" src="https://github.com/user-attachments/assets/1dffdf9a-ae00-43d4-8b20-106ca252058f" />
+
+Módulo Historial de ventas
+En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se presiona en el botón "Buscar", luego se presiona en el ícono del ojo, que es el detalle de la venta y se refleja el detalle de la compra como se aprecia en la imagen
+
+<img width="1242" height="538" alt="image" src="https://github.com/user-attachments/assets/c891fdc3-62bd-43f7-909d-dc8ba29d1d31" />
+
+Módulo Reportes
+En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se presiona en el botón "Buscar", luego se habilita el botón de "Exportar a excel" para su descarga y visualización como se ve en las imágenes
+
+<img width="1228" height="537" alt="image" src="https://github.com/user-attachments/assets/94bf6e4c-1b49-4465-b881-bccb0b36e457" />
+
+<img width="1280" height="380" alt="image" src="https://github.com/user-attachments/assets/55925e66-d284-4725-a7a4-0411bcf97fa2" />
+
+
+
+
+
+
+
 
 
 
