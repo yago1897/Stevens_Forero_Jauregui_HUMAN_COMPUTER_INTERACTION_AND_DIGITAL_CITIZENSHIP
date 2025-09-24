@@ -125,6 +125,26 @@ Editar usuario - se presiona en el ícono del lápiz como se aprecia en la image
 Eliminar un usuario - se presiona en el ícono del recicalje como se aprecia en la imagen
 <img width="1189" height="562" alt="image" src="https://github.com/user-attachments/assets/f5c9455c-d72e-4f40-a7b6-4d7d789790df" />
 
+Módulo Productos
+
+<img width="1280" height="592" alt="image" src="https://github.com/user-attachments/assets/c331291b-74cf-497b-9ecd-0754e6f590a9" />
+
+Crear un producto 
+<img width="1220" height="575" alt="image" src="https://github.com/user-attachments/assets/f97caee0-7431-4cbb-b809-24a14e7630d7" />
+
+Editar un producto - se presiona en el ícono del lápiz
+
+<img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/1a389593-9267-43fe-8977-efdfb2c798cf" />
+
+Eliminar un producto
+
+<img width="753" height="354" alt="image" src="https://github.com/user-attachments/assets/f743cb78-3829-4ba7-8884-c35b898891cc" />
+
+
+
+
+
+
 
 
 
