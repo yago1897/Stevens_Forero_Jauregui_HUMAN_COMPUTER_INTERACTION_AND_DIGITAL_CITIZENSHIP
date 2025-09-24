@@ -66,7 +66,7 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
     
 ---
 
-**Estructura de navegación**
+##Estructura de navegación
 
 ```plaintext
 [Sistema Venta Ecommerce]
@@ -77,6 +77,8 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
    ├── Venta     (Administrador y empleado)
    ├── Historial de Ventas (Administrador y empleado)
    └── Reportes            (Administrador y empleado)
+
+```
 
 ---
 
