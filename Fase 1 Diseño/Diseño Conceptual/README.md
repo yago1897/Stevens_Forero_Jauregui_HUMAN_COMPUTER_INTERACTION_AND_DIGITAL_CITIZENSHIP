@@ -98,7 +98,7 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
   - La interfaz muestra solo la información necesaria (ej. el empleado solo ve los módulos de venta, historial y reportes y el administrador ve tódos los módulos), evitando sobrecarga de opciones.
   - Los términos y flujos usados (ej. “Venta”, “Historial Ventas”, “Productos” etc.) tienen un lenguaje fácil de entender facilitando la comprensión.
   - El menú lateral izquierdo, filtros y botones mantienen una estructura fija en cada pantalla, y esto reduce el esfuerzo visual.
-    ```
+    **```**
 ---
 
 
