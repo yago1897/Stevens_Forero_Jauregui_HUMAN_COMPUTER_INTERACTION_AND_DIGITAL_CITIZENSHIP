@@ -5,6 +5,7 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
 ---
 Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
 
+
  Roles de usuario
 
 - **Administrador**
@@ -100,7 +101,9 @@ Inicialmente se observa la vista del login donde de acuerdo al perfil del usuari
 ---
 
 Inicialmente se observa la vista del login donde de acuerdo al perfil del usuario puede acceder con sus credenciales.
-<img width="805" height="373" alt="image" src="https://github.com/user-attachments/assets/750d10d3-7037-44c9-9152-d290898a9f43"/>
+![Uploading image.png…]()
+
+
  
 
 
