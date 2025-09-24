@@ -68,9 +68,9 @@ A continuación se especifica **El diseño o estructura conceptual de la aplicac
 ```plaintext
 [Sistema Venta Ecommerce]
    |
-   ├── Dashboard
+   ├── Dashboard (solo administrador)
    ├── Usuarios (solo administrador)
    ├── Productos (solo administrador)
-   ├── Venta
-   ├── Historial de Ventas
-   └── Reportes
+   ├── Venta     (solo empleado)
+   ├── Historial de Ventas (solo empleado)
+   └── Reportes            (solo empleado)
