@@ -1,4 +1,4 @@
-MODELO -ENTIDAD-RELACIÓN  de la aplicación Ecommerce
+MODELO -ENTIDAD-RELACIÓN  del sistema venta Ecommerce
 
 El sistema cuenta con las siguientes entidades: Usuario, Rol, Menu, MenuRol, Producto, Categoria, Venta, DetalleVenta, NumeroDocumento
 
