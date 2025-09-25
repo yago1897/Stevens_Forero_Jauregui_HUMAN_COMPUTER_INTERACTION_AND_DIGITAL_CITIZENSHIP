@@ -19,5 +19,13 @@
 
     <img width="604" height="292" alt="image" src="https://github.com/user-attachments/assets/fd46f9a7-1f63-4640-95f2-c8bf4126c9a5" />
 
+---
+
+- **Diagrama de caso de uso donde participan todos los roles**
+
+
+    <img width="278" height="603" alt="image" src="https://github.com/user-attachments/assets/4ced030f-14b5-4d38-a873-694223f5c45d" />
+
+
 
 
