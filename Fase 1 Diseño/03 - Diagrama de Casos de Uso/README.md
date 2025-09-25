@@ -2,6 +2,30 @@
 
 ---
 
+- **Usuarios** *Rol - Administrador*
+  - Registro de nuevos usuarios.
+  - Edición de datos de usuario.
+  - Eliminación de usuarios.
+
+- **Productos** *Rol - Administrador*
+  - Registro de productos.
+  - Actualización de precios.
+  - Control de inventario.
+
+- **Venta** - *Rol - Administrador*
+  - Registro de ventas en tiempo real.
+  - Cálculo automático de totales.
+
+- **Historial de Ventas** - *Rol - Administrador*
+  - Consulta de ventas pasadas.
+  - Búsqueda y filtrado por fecha.
+
+- **Reportes** - *Rol - Administrador*
+  - Generación de reportes de ventas.
+  - Exportación en formato Excel.
+ 
+
+---
 
 - **Diagrama de caso de uso para Administrador**
   
