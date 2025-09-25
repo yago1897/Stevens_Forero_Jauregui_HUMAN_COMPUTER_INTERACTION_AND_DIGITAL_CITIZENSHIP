@@ -1,9 +1,11 @@
-MODELO -ENTIDAD-RELACIÓN
+MODELO -ENTIDAD-RELACIÓN  de la aplicación Ecommerce
+
+El sistema cuenta con las siguientes entidades: Usuario, Rol, Menu, MenuRol, Producto, Categoria, Venta, DetalleVenta, NumeroDocumento
+
 
 <img width="1013" height="546" alt="image" src="https://github.com/user-attachments/assets/fedb9e80-44c6-4de4-8bc0-d23d57badf44" />
 
 
-El sistema cuenta con las siguientes entidades: Usuario, Rol, Menu, MenuRol, Producto, Categoria, Venta, DetalleVenta, NumeroDocumento
 
 Relaciones entre entidades
 
@@ -32,4 +34,8 @@ Relaciones entre entidades
 - **Venta – NumeroDocumento (N:1)**
   - Cada venta se asocia con un número de documento (factura, boleta, ticket).
   - Motivo: Garantizar numeración secuencial y trazabilidad de las transacciones.
+    
+ ---
+ 
+  La base de datos fue realizada en SQL server versión 2019 
 
