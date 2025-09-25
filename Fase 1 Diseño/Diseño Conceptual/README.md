@@ -186,7 +186,9 @@ En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se 
 
 ---
 
+Modo en que se realizó la plataforma Ecommerce: la maquetación fue realizada por Angular versión 15, en este caso ya está funcionando ya que está conectada a base de datos sql server y el backend realizado en la plataforma .Net-Core
 
+La plataforma "Sistema de ventas Ecommerce" fue realizado bajo las especificaciones planteadas cuya maquetación y estructura cumpliera con lo solicitado, que era crear un proyecto front y backend de libre albedrio que cumpliera con los principios de diseño centrado en el usuario (HCI) y aplicando principios de Usabilidad, Accesinilidad y ergonomía. Adicional que consumiera datos de una API, en este caso yo escojí angular 15 para el frontend y poder consumir un crud de datos realizado en ASP.NET-CORE, donde se exponen 4 servicios API-REST-FULL "GET", "POST","PUT" y "DELETE". La aplicación está realizada bajo una arquitectura llamada "Clean-Arquitecture", empleando el patron de diseño llamado repositorio, empleando DTOS, validaciones de datos, autommaper, interfaces e inyección de dependencias, con buenas prácticas y principios solid.
 
 
 
