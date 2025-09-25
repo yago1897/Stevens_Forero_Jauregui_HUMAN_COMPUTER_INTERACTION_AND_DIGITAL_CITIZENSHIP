@@ -1,5 +1,8 @@
 MODELO -ENTIDAD-RELACIÓN
 
+<img width="1013" height="546" alt="image" src="https://github.com/user-attachments/assets/fedb9e80-44c6-4de4-8bc0-d23d57badf44" />
+
+
 El sistema cuenta con las siguientes entidades: Usuario, Rol, Menu, MenuRol, Producto, Categoria, Venta, DetalleVenta, NumeroDocumento
 
 Relaciones entre entidades
