@@ -100,6 +100,12 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 La arquitectura propuesta asegura que el sistema sea modular, extensible, seguro y escalable u con la inclusión de Inyección de dependencias la arquitectura se vuelve mas eficiente, desacoplada, flexible y escalable.
 La separación de entornos entre Visual Studio Code (Frontend) y Visual Studio 2022 (Backend) refuerza las buenas prácticas de desarrollo moderno, y esto permite equipos más ágiles, mejor integración y escalabilidad futura.
 
+
+**7. Referencias**
+
+  - Software Architecture in Practice (4th ed.). Addison-Wesley.
+  - IEEE Std 610.12-1990, Glosario estándar IEEE de terminología de ingeniería de software
+
     
 
   
