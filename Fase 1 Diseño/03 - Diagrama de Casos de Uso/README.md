@@ -1,5 +1,11 @@
 # Diagramas de casos de uso del sistema de ventas 
 
+
+**Introducción**
+El presente documento describe los principales casos de uso del Sistema de Venta Ecommerce, detallando la interacción entre los actores y el sistema. Estos casos de uso permiten comprender el comportamiento funcional de la aplicación y sirven como base para el análisis, diseño y posterior desarrollo del software.
+
+---
+
 A continuación se describen los casos de uso que intervienen e interactúan con el sistema 
 
 ---
@@ -52,6 +58,20 @@ A continuación se describen los casos de uso que intervienen e interactúan con
 
 
     <img width="278" height="603" alt="image" src="https://github.com/user-attachments/assets/4ced030f-14b5-4d38-a873-694223f5c45d" />
+
+
+---
+
+- **Conclusión**
+  
+Los casos de uso definidos proporcionan una visión clara y estructurada de las funcionalidades clave que el sistema debe ofrecer. Además, garantizan una comunicación efectiva entre el equipo de desarrollo y los interesados, facilitando la correcta implementación de los requisitos y asegurando la alineación con los objetivos del proyecto del sistema de Ven ta Ecommerce.
+
+---
+
+- **Referencias**
+
+- Unified Modeling Language (UML), Version 2.5.1. Object Management Group.
+- https://plantuml.com/es/
 
 
 
