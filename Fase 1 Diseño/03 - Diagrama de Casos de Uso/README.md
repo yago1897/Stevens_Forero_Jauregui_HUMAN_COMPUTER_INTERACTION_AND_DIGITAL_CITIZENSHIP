@@ -2,6 +2,7 @@
 
 
 **Introducción**
+
 El presente documento describe los principales casos de uso del Sistema de Venta Ecommerce, detallando la interacción entre los actores y el sistema. Estos casos de uso permiten comprender el comportamiento funcional de la aplicación y sirven como base para el análisis, diseño y posterior desarrollo del software.
 
 ---
