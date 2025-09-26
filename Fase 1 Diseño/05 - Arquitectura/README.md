@@ -77,4 +77,21 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
   - Frontend (Angular 15): desarrollado en Visual Studio Code, lo que facilita la modularidad, integración el backend de Visual Studio 2022.
   - Backend (ASP.NET Core 7, C#): desarrollado en Visual Studio 2022, aprovechando sus herramientas avanzadas de depuración, integración con SQL Server y soporte para arquitecturas en capas.
 
+---
+
+**5. Diagrama de Componentes que describe la arquitectura del sistema**
+
+<img width="649" height="623" alt="image" src="https://github.com/user-attachments/assets/535bdc43-0bc6-4d8b-a35e-eeb4dd84f593" />
+
+---
+
+**6. Conclusión**
+
+La arquitectura propuesta asegura que el sistema sea modular, extensible, seguro y escalable.
+La separación de entornos entre Visual Studio Code (Frontend) y Visual Studio 2022 (Backend) refuerza las buenas prácticas de desarrollo moderno, y esto permite equipos más ágiles, mejor integración y escalabilidad futura.
+
+    
+
+  
+
 
