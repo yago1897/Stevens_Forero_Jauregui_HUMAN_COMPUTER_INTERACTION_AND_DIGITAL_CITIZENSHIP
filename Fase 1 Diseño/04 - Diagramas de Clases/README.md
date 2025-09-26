@@ -8,7 +8,9 @@ clases, sus atributos, métodos y las relaciones entre ellas.
 
 **Descripción:** Representa a los empleados que interactúan con el sistema. Contiene la información básica de autenticación y estado.
 
-**Casos de uso principales**
+
+1-**Usuario**
+**Responsabilidades:**
 
 - **Administrador** 
   - Gestionar usuarios (crear, modificar, desactivar).
