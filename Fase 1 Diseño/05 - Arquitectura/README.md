@@ -90,7 +90,8 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 
 **5. Diagrama de Componentes que describe la arquitectura del sistema**
 
-<img width="649" height="623" alt="image" src="https://github.com/user-attachments/assets/535bdc43-0bc6-4d8b-a35e-eeb4dd84f593" />
+<img width="803" height="641" alt="image" src="https://github.com/user-attachments/assets/46231e99-b4d4-4f55-ba55-8965a0a675e1" />
+
 
 ---
 
