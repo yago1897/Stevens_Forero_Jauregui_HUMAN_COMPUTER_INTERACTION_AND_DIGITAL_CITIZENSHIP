@@ -1,30 +1,33 @@
 # Diagramas de casos de uso del sistema de ventas 
 
+A continuación se describen los casos de uso que intervienen e interactúan con el sistema 
+
 ---
 
-- **Usuarios** *Rol - Administrador*
-  - Registro de nuevos usuarios.
-  - Edición de datos de usuario.
-  - Eliminación de usuarios.
+**Casos de uso principales**
 
-- **Productos** *Rol - Administrador*
-  - Registro de productos.
-  - Actualización de precios.
-  - Control de inventario.
+- **Administrador** 
+  - Gestionar usuarios (crear, modificar, desactivar).
+  - Gestionar roles y permisos.
+  - Gestionar menús de navegación.
+  - Gestionar categorías de productos.
+  - Gestionar productos (crear, actualizar stock, activar/desactivar).
+  - Consultar reportes de ventas.
 
-- **Venta** - *Rol - Administrador*
-  - Registro de ventas en tiempo real.
-  - Cálculo automático de totales.
 
-- **Historial de Ventas** - *Rol - Administrador*
-  - Consulta de ventas pasadas.
-  - Búsqueda y filtrado por fecha.
+- **Empleado/Cliente** 
+  - Registrarse en el sistema.
+  - Iniciar sesión.
+  - Consultar catálogo de productos.
+  - Agregar productos al carrito.
+  - Realizar compra (generar venta).
+  - Consultar historial de compras.
 
-- **Reportes** - *Rol - Administrador*
-  - Generación de reportes de ventas.
-  - Exportación en formato Excel.
+- **Sistema de pago (externo)** 
+  - Procesar pago de la compra.
+  - Confirmar transacción.
+
  
-
 ---
 
 - **Diagrama de caso de uso para Administrador**
