@@ -7,7 +7,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
 # Descripción y Responsabilidad de las Clases
 
 
-1.**Usuario**
+**1.Usuario**
 
 **Descripción:** Representa a los empleados que interactúan con el sistema. Contiene la información básica de autenticación y estado.
 
