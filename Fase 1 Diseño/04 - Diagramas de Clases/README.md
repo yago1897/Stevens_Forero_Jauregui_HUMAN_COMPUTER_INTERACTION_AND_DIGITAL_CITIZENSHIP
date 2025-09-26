@@ -1,5 +1,9 @@
 # Diagrama de clases
 
+**1. Introducción**
+
+El Diagrama de Clases del Sistema de Venta Ecommerce representa la estructura estática del sistema, mostrando las entidades principales, sus atributos, métodos y las relaciones entre ellas. Este modelo proporciona una visión detallada de cómo se organiza la lógica interna del software, sirviendo como base para la implementación orientada a objetos en C#.
+
 El diagrama de clases representa la estructura del sistema, mostrando las
 clases, sus atributos, métodos y las relaciones entre ellas.
 
@@ -123,6 +127,18 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Retornar el estado (aprobado/rechazado).
 
 ---
+
+**2. Conclusión**
+
+El diagrama de clases facilita la comprensión del diseño del sistema al describir de forma clara las entidades, sus responsabilidades y las interacciones entre ellas. Además, asegura la coherencia en el desarrollo, también promueve la reutilización de código y garantiza que la implementación cumpla con los requisitos funcionales y de negocio establecidos.
+
+---
+
+**2. Referencias**
+  - El Lenguaje Unificado de Modelado: Manual de referencia. Addison-Wesley.
+  - https://plantuml.com/es/
+
+
 
 
 <img width="754" height="426" alt="image" src="https://github.com/user-attachments/assets/d7a712f3-3a0f-436f-9fc1-9ea214f68fd8" />
