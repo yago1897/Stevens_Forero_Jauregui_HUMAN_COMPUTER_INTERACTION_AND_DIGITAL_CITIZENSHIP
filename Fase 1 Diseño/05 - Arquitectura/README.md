@@ -37,3 +37,33 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
   
 
 ---
+
+
+**4. Capa de Datos (DAL – Data Access Layer)
+  - Implementada con el ORM Entity Framework Core.
+  - Gestiona el acceso a la base de datos SQL Server.
+  - Aplica el patrón Repositorio para desacoplar consultas e inserciones, actualizaciones y eliminaciones.
+
+---
+
+
+**5. Capa de Transferencia de Datos (DTOs – Data Transfer Objects)
+  - Permite estructurar los datos enviados/recibidos entre la API y la aplicación cliente.
+  - Reduce la sobreexposición de las entidades del modelo de dominio.
+  - Aplica seguridad al no exponer las propiedades de la entidad.
+
+---
+
+**6. Capa de Persistencia (Model)
+  - Contiene la información de las entidades Usuarios, Roles, Menú, MenuRol, Productos, Ventas etc.
+  - Maneja la lógica de los datos y el estado de la aplicación.
+  - Interactúa con la base de datos y procesa la información antes de mostrarsela al usuario.
+
+---
+
+**3. Seguridad**
+
+**Descripción:** El sistema incorpora JWT (JSON Web Tokens) como mecanismo principal de autenticación.
+  - Los usuarios se autentican contra la API REST.
+  - La API genera un token firmado que incluye permisos y roles.
+  - El token se adjunta en cada petición al servidor.
