@@ -39,7 +39,7 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 ---
 
 
-**4. Capa de Datos (DAL – Data Access Layer)
+**4. Capa de Datos (DAL – Data Access Layer)**
   - Implementada con el ORM Entity Framework Core.
   - Gestiona el acceso a la base de datos SQL Server.
   - Aplica el patrón Repositorio para desacoplar consultas e inserciones, actualizaciones y eliminaciones.
@@ -47,14 +47,14 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 ---
 
 
-**5. Capa de Transferencia de Datos (DTOs – Data Transfer Objects)
+**5. Capa de Transferencia de Datos (DTOs – Data Transfer Objects)**
   - Permite estructurar los datos enviados/recibidos entre la API y la aplicación cliente.
   - Reduce la sobreexposición de las entidades del modelo de dominio.
   - Aplica seguridad al no exponer las propiedades de la entidad.
 
 ---
 
-**6. Capa de Persistencia (Model)
+**6. Capa de Persistencia (Model)**
   - Contiene la información de las entidades Usuarios, Roles, Menú, MenuRol, Productos, Ventas etc.
   - Maneja la lógica de los datos y el estado de la aplicación.
   - Interactúa con la base de datos y procesa la información antes de mostrarsela al usuario.
@@ -67,3 +67,14 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
   - Los usuarios se autentican contra la API REST.
   - La API genera un token firmado que incluye permisos y roles.
   - El token se adjunta en cada petición al servidor.
+  - Garantiza confidencialidad, integridad y control de acceso en toda la aplicación.
+
+---
+
+**4. Entornos de Desarrollo**
+
+**Descripción:** El proyecto se divide en dos entornos de desarrollo claramente diferenciados:
+  - Frontend (Angular 15): desarrollado en Visual Studio Code, lo que facilita la modularidad, integración el backend de Visual Studio 2022.
+  - Backend (ASP.NET Core 7, C#): desarrollado en Visual Studio 2022, aprovechando sus herramientas avanzadas de depuración, integración con SQL Server y soporte para arquitecturas en capas.
+
+
