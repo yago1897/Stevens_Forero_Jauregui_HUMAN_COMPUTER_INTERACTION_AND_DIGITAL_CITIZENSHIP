@@ -50,25 +50,31 @@ Los controladores del Sistema de Venta Ecommerce realizado en ASP.NET Core se en
 
 <img width="1224" height="284" alt="image" src="https://github.com/user-attachments/assets/bec1adb7-6e13-425f-9c24-7cac9ddabb43" />
 
+---
+
 **2. CategoriaController.cs**
 
 <img width="1213" height="609" alt="image" src="https://github.com/user-attachments/assets/213cf871-32a5-4f41-a320-cc0ec2a5f7f0" />
 
+---
 
 **3. DashBoardController.cs**
 
 <img width="1115" height="654" alt="image" src="https://github.com/user-attachments/assets/d429ddb5-3363-44ac-9c0b-c5c9e1afd6e2" />
 
+---
 
 **4. ListaProductos**
 
 <img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/7fc42821-d886-41ce-8f1c-fe8c0621934a" />
 
+---
 
 **5. MenuController.cs**
 
 <img width="1104" height="648" alt="image" src="https://github.com/user-attachments/assets/f67d7eac-4feb-4bdf-9f20-ff35af70fdb8" />
 
+---
 
 **6. ProductoController.cs**
 
@@ -78,13 +84,13 @@ Los controladores del Sistema de Venta Ecommerce realizado en ASP.NET Core se en
 
 <img width="1238" height="590" alt="image" src="https://github.com/user-attachments/assets/2823514c-45be-447e-babb-815c5c4aec80" />
 
-
+---
 
 **7. RolController.cs**
 
 <img width="1133" height="647" alt="image" src="https://github.com/user-attachments/assets/bd182bb2-d593-4f69-8e5e-f3bdce797fbf" />
 
-
+---
 
 **8. UsuarioController.cs**
 
@@ -97,6 +103,7 @@ Los controladores del Sistema de Venta Ecommerce realizado en ASP.NET Core se en
 
 <img width="1229" height="508" alt="image" src="https://github.com/user-attachments/assets/f60801b0-f21b-438c-968e-d2e6378bbbbf" />
 
+---
 
 **9. VentaController.cs**
 
