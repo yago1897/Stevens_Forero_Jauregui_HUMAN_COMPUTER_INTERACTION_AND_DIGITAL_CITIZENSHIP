@@ -17,7 +17,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Actualizar su perfil y datos personales.
   - Asociarse con un Rol que define sus permisos.
  
-- **Rol**
+**2. Rol**
 
 **Descripción:** Define los distintos perfiles de acceso y permisos para acceder al sistema.
 
@@ -26,7 +26,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Asociar los menús y opciones que cada rol puede acceder.
   - Mantener la trazabilidad de creación a través de fechaRegistro.
 
-- **Menú**
+**3. Menú**
 
 **Descripción:** Contiene las opciones de navegación que el sistema muestra para que el usuario navegue.
 
@@ -36,7 +36,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Mostrar los accesos permitidos al usuario según su rol.
 
 
-- **MenuRol**
+**4. MenuRol**
 
 **Descripción:** Es una clase puente que relaciona los menús con los roles.
 
@@ -45,7 +45,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Facilitar el control de accesos de forma dinámica.
 
 
-- **Producto**
+**5. Producto**
 
 **Descripción:** Representa los bienes que se registran, y que se venden y administran dentro del sistema.
 
@@ -55,7 +55,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Descontar stock automáticamente al realizar una venta.
 
 
-- **Categoría**
+**6. Categoría**
 
 **Descripción:** Agrupa los productos en grupos o categorías para una mejor organización.
 
@@ -65,7 +65,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Administrar su estado (activo/inactivo).
 
 
-- **Venta**
+**7. Venta**
 
 **Descripción:** Representa la transacción comercial realizada en el sistema.
 
@@ -76,7 +76,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Relacionarse con múltiples DetalleVenta.
 
 
-- **DetalleVenta**
+**8. DetalleVenta**
 
 **Descripción:** Representa cada línea de la venta, indicando los productos vendidos, cantidades y precios.
 
@@ -86,7 +86,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Asociarse a una Venta y un Producto.
 
 
-- **NumeroDocumento**
+**9. NumeroDocumento**
 
 **Descripción:** Lleva el control de numeración de documentos de venta.
 
@@ -95,7 +95,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Mantener el último número emitido y la fecha de registro.
 
 
-- **SistemaPago**
+**10. SistemaPago**
 
 **Descripción:** Clase externa que representa la interacción con plataformas de pago.
 
@@ -103,6 +103,10 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Procesar pagos electrónicos según el monto de la venta.
   - Confirmar la transacción con el sistema de pago externo.
   - Retornar el estado (aprobado/rechazado).
+
+
+<img width="754" height="426" alt="image" src="https://github.com/user-attachments/assets/d7a712f3-3a0f-436f-9fc1-9ea214f68fd8" />
+
   
   
 
