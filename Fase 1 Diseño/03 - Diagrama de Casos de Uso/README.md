@@ -63,13 +63,13 @@ A continuación se describen los casos de uso que intervienen e interactúan con
 
 ---
 
-- **Conclusión**
+**Conclusión**
   
 Los casos de uso definidos proporcionan una visión clara y estructurada de las funcionalidades clave que el sistema debe ofrecer. Además, garantizan una comunicación efectiva entre el equipo de desarrollo y los interesados, facilitando la correcta implementación de los requisitos y asegurando la alineación con los objetivos del proyecto del sistema de Ven ta Ecommerce.
 
 ---
 
-- **Referencias**
+**Referencias**
 
 - Unified Modeling Language (UML), Version 2.5.1. Object Management Group.
 - https://plantuml.com/es/
