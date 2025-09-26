@@ -72,6 +72,7 @@ El Mapa de Navegación del Sistema de Venta Ecommerce representa el flujo de int
 
 El diagrama de navegabilidad permite identificar la secuencia lógica de interacción del usuario dentro del sistema, asegurando claridad en el acceso a cada módulo (DashBoard, Usuarios, Productos, Ventas, Historial de Ventas y Reportes). Esto facilita tanto la experiencia de uso como la posterior implementación y mantenimiento del sistema, al contar con una guía visual que refleja el flujo completo de navegación.
 
+---
 
 **5. Referencias:**
 
