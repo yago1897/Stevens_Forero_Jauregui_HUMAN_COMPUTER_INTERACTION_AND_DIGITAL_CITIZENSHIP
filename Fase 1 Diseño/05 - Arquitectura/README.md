@@ -61,6 +61,15 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 
 ---
 
+**7. Capa de Inversión de Control (IOC – Dependency Injection)**
+  - Gestiona el registro de interfaces y sus implementaciones.
+  - Permite inyectar dependencias en los controladores y servicios.
+  - Mejora el desacoplamiento entre las capas y facilita la prueba unitaria y la escalabilidad.
+  - Ejemplo: services.AddScoped<IUsuarioService, UsuarioService>();.
+
+---
+
+
 **3. Seguridad**
 
 **Descripción:** El sistema incorpora JWT (JSON Web Tokens) como mecanismo principal de autenticación.
@@ -87,7 +96,7 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 
 **6. Conclusión**
 
-La arquitectura propuesta asegura que el sistema sea modular, extensible, seguro y escalable.
+La arquitectura propuesta asegura que el sistema sea modular, extensible, seguro y escalable u con la inclusión de Inyección de dependencias la arquitectura se vuelve mas eficiente, desacoplada, flexible y escalable.
 La separación de entornos entre Visual Studio Code (Frontend) y Visual Studio 2022 (Backend) refuerza las buenas prácticas de desarrollo moderno, y esto permite equipos más ágiles, mejor integración y escalabilidad futura.
 
     
