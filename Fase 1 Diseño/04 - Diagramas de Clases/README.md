@@ -16,6 +16,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Registrar nuevos usuarios.
   - Actualizar su perfil y datos personales.
   - Asociarse con un Rol que define sus permisos.
+
+---
  
 **2. Rol**
 
@@ -26,6 +28,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Asociar los menús y opciones que cada rol puede acceder.
   - Mantener la trazabilidad de creación a través de fechaRegistro.
 
+---
+
 **3. Menú**
 
 **Descripción:** Contiene las opciones de navegación que el sistema muestra para que el usuario navegue.
@@ -35,6 +39,7 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Asociar a roles mediante la clase MenuRol.
   - Mostrar los accesos permitidos al usuario según su rol.
 
+---
 
 **4. MenuRol**
 
@@ -43,6 +48,9 @@ clases, sus atributos, métodos y las relaciones entre ellas.
 **Responsabilidades:**
   - Establecer qué menús puede ver y usar cada rol.
   - Facilitar el control de accesos de forma dinámica.
+
+
+---
 
 
 **5. Producto**
@@ -54,6 +62,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Permitir el registro y actualización de productos.
   - Descontar stock automáticamente al realizar una venta.
 
+---
+
 
 **6. Categoría**
 
@@ -63,6 +73,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Mantener el listado de categorías activas.
   - Permitir la asociación de productos a una categoría.
   - Administrar su estado (activo/inactivo).
+
+---
 
 
 **7. Venta**
@@ -75,6 +87,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Registrar la venta y calcular el monto total.
   - Relacionarse con múltiples DetalleVenta.
 
+---
+
 
 **8. DetalleVenta**
 
@@ -85,6 +99,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Calcular el subtotal correspondiente.
   - Asociarse a una Venta y un Producto.
 
+---
+
 
 **9. NumeroDocumento**
 
@@ -93,6 +109,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
 **Responsabilidades:**
   - Generar secuencias de números únicos para las ventas, similar a un campo identity.
   - Mantener el último número emitido y la fecha de registro.
+
+---
 
 
 **10. SistemaPago**
@@ -103,6 +121,8 @@ clases, sus atributos, métodos y las relaciones entre ellas.
   - Procesar pagos electrónicos según el monto de la venta.
   - Confirmar la transacción con el sistema de pago externo.
   - Retornar el estado (aprobado/rechazado).
+
+---
 
 
 <img width="754" height="426" alt="image" src="https://github.com/user-attachments/assets/d7a712f3-3a0f-436f-9fc1-9ea214f68fd8" />
