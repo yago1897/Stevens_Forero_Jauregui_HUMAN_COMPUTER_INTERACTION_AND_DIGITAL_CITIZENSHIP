@@ -128,20 +128,27 @@ clases, sus atributos, métodos y las relaciones entre ellas.
 
 ---
 
-**2. Conclusión**
+**2. Diagrama de clases del Sistema de Venta Ecommerce**
+
+
+<img width="754" height="426" alt="image" src="https://github.com/user-attachments/assets/d7a712f3-3a0f-436f-9fc1-9ea214f68fd8" />
+
+---
+
+**3. Conclusión**
 
 El diagrama de clases facilita la comprensión del diseño del sistema al describir de forma clara las entidades, sus responsabilidades y las interacciones entre ellas. Además, asegura la coherencia en el desarrollo, también promueve la reutilización de código y garantiza que la implementación cumpla con los requisitos funcionales y de negocio establecidos.
 
 ---
 
-**2. Referencias**
+**4. Referencias**
   - El Lenguaje Unificado de Modelado: Manual de referencia. Addison-Wesley.
   - https://plantuml.com/es/
 
 
 
 
-<img width="754" height="426" alt="image" src="https://github.com/user-attachments/assets/d7a712f3-3a0f-436f-9fc1-9ea214f68fd8" />
+
 
   
   
