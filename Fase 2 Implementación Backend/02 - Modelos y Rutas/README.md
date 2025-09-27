@@ -21,6 +21,9 @@ Los modelos representan las entidades de negocio del sistema de ventas Ecommerce
 
 **Ejemplo del modelo:** Usuario.cs
 
+<img width="856" height="490" alt="image" src="https://github.com/user-attachments/assets/ef5156db-73a4-4665-b1f7-b6bf06d802e1" />
+
+
 
 
 
