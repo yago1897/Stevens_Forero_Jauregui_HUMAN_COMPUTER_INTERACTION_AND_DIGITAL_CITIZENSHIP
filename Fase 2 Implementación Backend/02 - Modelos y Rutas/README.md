@@ -17,6 +17,10 @@ Los modelos representan las entidades de negocio del sistema de ventas Ecommerce
 - **Venta:** almacena las transacciones realizadas, con fecha, forma de pago, total, etc.
 - **DetalleVenta:** registra los productos asociados a cada venta (cantidad, precio unitario, subtotal).
 
+---
+
+**Ejemplo del modelo:** Usuario.cs
+
 
 
 
