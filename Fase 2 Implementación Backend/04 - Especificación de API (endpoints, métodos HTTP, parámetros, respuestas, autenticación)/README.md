@@ -26,8 +26,9 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 
 {
 
-  "correo": "Admin@hotmail.com",
-  "clave": "123"
+    "correo": "Admin@hotmail.com",
+    
+    "clave": "123"
   
 }
 
@@ -35,8 +36,9 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 
 {
 
-  "isSuccess": true,
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+    "isSuccess": true,
+    
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
   
 }
 
