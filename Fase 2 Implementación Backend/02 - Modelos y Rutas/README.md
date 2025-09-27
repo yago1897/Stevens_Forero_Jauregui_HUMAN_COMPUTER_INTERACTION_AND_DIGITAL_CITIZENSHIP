@@ -12,6 +12,7 @@ Los modelos representan las entidades de negocio del sistema de ventas Ecommerce
 
 En ASP.NET Core, y más específicamente en el Sistema de Ventas Ecommerce, los modelos representan las entidades del dominio de la aplicación, es decir, los objetos con los que se trabaja en la base de datos y en la lógica de negocio.
 
+
 - **Usuario:** representa los datos de los usuarios (nombre, correo, contraseña, rol, etc.).
 - **Rol:** define los permisos de los usuarios.
 - **Producto:** contiene la información de los productos (nombre, categoría, stock, precio, etc.).
@@ -132,12 +133,15 @@ Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las 
 <img width="554" height="580" alt="image" src="https://github.com/user-attachments/assets/8d99f114-9a76-4959-bf72-e9f273c4ed1a" />
 
 Con estas rutas quedan cubiertas todas las rutas de todos los módulos
+
+
 ---
 
 
 **4. Conclusión**
 
 La combinación de modelos y rutas garantiza una arquitectura limpia en el backend: los modelos gestionan la representación de datos y las rutas permiten exponerlos a través de la API para su consumo por el cliente que puede ser Postman o frontend que se use, en este caso en Angular 15.
+
 
 ---
 
