@@ -82,7 +82,7 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
   
 **Endpoint completo:** http://localhost:5364/api/Categoria/Lista 
 
-- **Método:** **GET** /api/Categoria →  Lista todos las categorias
+- **Método:** **GET** /api/Categoria →  Lista todas las categorias
 
 ---
 
@@ -92,11 +92,40 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 **Endpoint completo:** http://localhost:5364/api/Venta 
  
 - **Método:** **POST** /api/Venta → Registrar venta. **Parametros:** → [FromBody], VentaDTO
-- **Método:** **GET**  /api/Venta → Obtiene el hostorial de la venta por filtros de fecha. **Parametros:** → (string buscarPor, string? numeroVenta, string? fechaInicio, string? fechaFin)
+- **Método:** **GET**  /api/Venta/Historial?fechaInicio=2025-01-01&fechaFin=2025-01-31 → Obtiene el historial de la venta buscado por filtros de fecha. **Parametros:** → (string buscarPor, string? numeroVenta, string? fechaInicio, string? fechaFin)
 
 - **Método:** **GET** /api/Venta → Obtiene el reporte de la venta por filtros de fecha. **Parametros:** → (string? fechaInicio, string? fechaFin)
 
+---
 
+
+**Módulo Reporte**
+
+**Endpoint completo:** http://localhost:5364/api/Reporte
+
+- **Método:** **GET** /api/Reporte/Excel?fechaInicio=2025-01-01&fechaFin=2025-01-31 → Genera reporte en excel buscado por filtros de fecha. **Parametros:** → (string? fechaInicio, string? fechaFin)
+
+---
+
+**Módulo DashBoard**
+
+**Endpoint completo:** http://localhost:5364/api/DashBoard
+
+- **Método:** **GET** /api/DashBoard/Resumen → Datos estadísticos de ventas, ingresos totales, ventas totales, produtos totales
+
+---
+
+
+**Conclusión**
+
+La API del Sistema de Venta Ecommerce está estructurada en módulos que exponen endpoints REST bajo HTTP. Se emplea autenticación JWT para garantizar la seguridad de las operaciones y cada controlador implementa operaciones CRUD o consultas específicas de negocio. Esto facilita la integración con el frontend desarrollado en Angular.
+
+---
+
+
+**Referencias**
+
+- https://learn.microsoft.com/en-us/aspnet/core/web-api
 
 
 
