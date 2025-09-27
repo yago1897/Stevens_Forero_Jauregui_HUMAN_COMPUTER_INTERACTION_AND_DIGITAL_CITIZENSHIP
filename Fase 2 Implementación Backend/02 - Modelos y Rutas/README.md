@@ -67,7 +67,8 @@ En ASP.NET Core, y más específicamente en el Sistema de Ventas Ecommerce, los 
 En ASP.NET Core, las rutas definen el camino por el cual el cliente (frontend - Angular o Postman) accede a un recurso del backend.
 Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las rutas se especifican con atributos como [Route], [HttpGet], [HttpPost], etc.
 
-**Ejemplo en:** UsuarioController.cs
+
+**Rutas en:** UsuarioController.cs
 
 <img width="519" height="519" alt="image" src="https://github.com/user-attachments/assets/60664be0-a096-4964-9b40-8f20566520d1" />
 
@@ -77,7 +78,7 @@ Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las 
 
 ---
 
-**Ejemplo en:** RolController.cs
+**Rutas en:** RolController.cs
 
 <img width="639" height="560" alt="image" src="https://github.com/user-attachments/assets/f132f29f-2695-45a2-9842-702b61b8a23a" />
 
@@ -85,7 +86,7 @@ Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las 
 ---
 
 
-**Ejemplo en:** ProductoController.cs
+**Rutas en:** ProductoController.cs
 
 <img width="536" height="558" alt="image" src="https://github.com/user-attachments/assets/f92cbeb0-e423-43d3-ae4c-e94dbc41606e" />
 
@@ -95,6 +96,62 @@ Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las 
 
 
 ---
+
+
+**Rutas en:** CategoríaController.cs
+
+<img width="639" height="567" alt="image" src="https://github.com/user-attachments/assets/a24f0588-889e-44ab-96c1-3d6299303edf" />
+
+
+---
+
+
+**Rutas en:** VentaController.cs
+
+
+<img width="578" height="583" alt="image" src="https://github.com/user-attachments/assets/e0d1c5e4-4ea6-4ded-a4fb-ca4226d673c2" />
+
+<img width="823" height="346" alt="image" src="https://github.com/user-attachments/assets/0e00a6fb-2c7f-4b8f-a61b-f031c788ec42" />
+
+<img width="618" height="311" alt="image" src="https://github.com/user-attachments/assets/f7f52126-9e5d-4c8f-9071-c8754c89c798" />
+
+
+---
+
+
+**Rutas en:** MenuController.cs
+
+<img width="493" height="539" alt="image" src="https://github.com/user-attachments/assets/0ff3c6c8-3cef-49b9-b4aa-37a7630bf369" />
+
+
+---
+
+
+**Rutas en:** DashBoardController.cs
+
+<img width="554" height="580" alt="image" src="https://github.com/user-attachments/assets/8d99f114-9a76-4959-bf72-e9f273c4ed1a" />
+
+Con estas rutas quedan cubiertas todas las rutas de todos los módulos
+---
+
+
+**4. Conclusión**
+
+La combinación de modelos y rutas garantiza una arquitectura limpia en el backend: los modelos gestionan la representación de datos y las rutas permiten exponerlos a través de la API para su consumo por el cliente que puede ser Postman o frontend que se use, en este caso en Angular 15.
+
+---
+
+
+**5. Referencias**
+
+ - https://learn.microsoft.com/en-us/aspnet/core/mvc/controllers/routing
+
+
+
+
+
+
+
 
 
 
