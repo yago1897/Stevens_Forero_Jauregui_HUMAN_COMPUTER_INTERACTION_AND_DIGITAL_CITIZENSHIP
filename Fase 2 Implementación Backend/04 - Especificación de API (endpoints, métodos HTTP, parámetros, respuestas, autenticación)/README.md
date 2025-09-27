@@ -43,4 +43,15 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 }
 
 
+---
+
+
+**Módulo Usuarios**
+**Endpoint completo:** http://localhost:5364/api/Usuario/Lista 
+- **Método:** **GET** /api/Usuario →  Lista todos los usuarios.
+- **Método:** **POST** /api/Usuario → Crear usuario.
+- **Método:** **PUT**  /api/Usuario/{id} → Modificar usuario.
+- **Método:** **DELETE** /api/Usuario/{id} → Eliminar usuario.
+
+
 
