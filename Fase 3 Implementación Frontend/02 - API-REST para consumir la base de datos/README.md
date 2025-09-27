@@ -20,7 +20,10 @@ Estas API RESTful fueron realizadas en .Net-Core para luego ser consumidas por A
 
 ![image](https://github.com/user-attachments/assets/6743266c-e8ac-44b9-a32a-a2d1e9a211b5)
 
+---
+
 A continuación se muestra parte del código de las Apis en .Net-Core, en este caso las API RESTful de Usuarios para Iniciar Sesion, Crear, Editar, y eliminar usuarios
+
 
 ![image](https://github.com/user-attachments/assets/66ac3493-2e81-436d-a7e2-c9b01bd9a0ea)
 
@@ -34,9 +37,14 @@ A continuación se muestra parte del código de las Apis en .Net-Core, en este c
 
 ![image](https://github.com/user-attachments/assets/6c80f091-61c5-4d66-bc8a-d00dea664494)
 
-A continuación se muestra como se consumen las API en Angular 14
 
-Este endPoint es el que se consume, para lograr la comunicación entre el endPoint que se expone, para que Angular lo consuma es importante habilitar CORS
+---
+
+
+**A continuación se muestra como se consumen las API en Angular 14**
+
+Este endPoint es el que se consume y se establece en el archivo "Environment.ts", para lograr la comunicación entre el backend y el frontend Angular. 
+
 
 ![image](https://github.com/user-attachments/assets/3c9d8055-d09e-484c-867c-197c68e13ecc)
 
@@ -44,15 +52,25 @@ Este endPoint es el que se consume, para lograr la comunicación entre el endPoi
 
 ![image](https://github.com/user-attachments/assets/75605e9c-73bd-4224-b1ef-a1fcf38be905)
 
-En Angular 14 y urilizando el editor de código VS-Code vemos que se consume el Api de "Iniciar Sesión"
+
+---
+
+**Módulo Usuarios**
+
+Utilizando el editor de código VS-Code vemos que se consume el Api de "Iniciar Sesión" como se aprecia en la imagen
 
 ![image](https://github.com/user-attachments/assets/627635bb-da13-4885-b16a-8bf2b32c9a54)
 
-Y se observa que se consumen las demás Apis-Rest que son: Guardar, Editar y eliminar, se observa que la aplicación en angular se ejecuta en el puerto 4200 de localhost
+---
+
+Se observa que se consumen las demás Apis-Rest que son: Guardar, Editar y eliminar, la aplicación se ejecuta en el puerto 4200 de localhost
+
 
 ![image](https://github.com/user-attachments/assets/ac46493a-cde8-4ca0-ace2-44a268e5b2ad)
 
-Finalmente para ejecutar la aplicación, lo primero es que se debe ejecutar la aplicación en .Net-Core como se ve a continuación, ya que si no se ejecuta no consumura las APIS RESTfull en Angular 14.
+---
+
+Primero se debe ejecutar la aplicación en .Net-Core como se ve a continuación, ya que si no se ejecuta no consumura las APIS RESTfull en Angular.
 Se muestra a contunuación .Net-Core y se ejecuta presionando la tecla "F5" o presionando el botón "Continuar" ubicado en la parte superior, donde esta subrayado en color rojo
 
 ![image](https://github.com/user-attachments/assets/032092e9-9493-4030-9511-559b56102aea)
@@ -62,8 +80,35 @@ Luego estando en el editor de código VS-Code se ejecuta la aplicación escribie
 ![image](https://github.com/user-attachments/assets/48efcf60-ce37-42ab-8088-ec3d3504e589)
 
 
+---
+
+
 Y listo, vemos que la aplicación se ejecuta en el puerto 4200 como se aprecia en la imagen.
 
 ![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+
+
+---
+
+
+**Módulo Productos**
+
+Consumo de Apis-Rest de Productos que son: Listar, Guardar, Editar y eliminar
+
+<img width="1074" height="650" alt="image" src="https://github.com/user-attachments/assets/ca0e3fd5-00ce-46a9-869b-5c14a108044e" />
+
+<img width="1185" height="177" alt="image" src="https://github.com/user-attachments/assets/2b70b106-9453-4df3-9671-40f645de4f30" />
+
+Ejecución de la aplicación 
+
+<img width="1280" height="550" alt="image" src="https://github.com/user-attachments/assets/8d1e1026-7852-4ff8-aa96-b1500a1e3bd1" />
+
+
+---
+
+
+
+
+
 
 
