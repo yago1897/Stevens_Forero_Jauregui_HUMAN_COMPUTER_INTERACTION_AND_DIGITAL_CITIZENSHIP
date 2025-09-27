@@ -115,7 +115,7 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 
 ---
 
-**Ahora veremos un ejemplo práctico de autenticación por medio de JWT en .Net-Core y con el cliente Posman cumpliendo con integración y seguridad con Jason Web Token**
+**Ahora veremos un ejemplo práctico de autenticación por medio de JWT(Jason-Web-Token) en .Net-Core y con el cliente Posman + encriptación de la contraseña**
 ---
 
 Se debe instalar las librerías de JWT como se ve en la imagen
