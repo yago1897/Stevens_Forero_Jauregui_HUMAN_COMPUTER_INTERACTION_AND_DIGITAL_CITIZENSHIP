@@ -92,7 +92,7 @@ En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se 
 
 ---
 
-**Modo en que se realizó la plataforma Ecommerce.**
+**Modo en que se realizó el frontedn la plataforma Ecommerce.**
 
 El diseño y las vistas fue realizada por Angular versión 15, en este caso ya está funcionando ya que está conectada a base de datos sql server y el backend realizado en la plataforma .Net-Core cuyo lenguaje de programación es C-sharp (C#).
 
