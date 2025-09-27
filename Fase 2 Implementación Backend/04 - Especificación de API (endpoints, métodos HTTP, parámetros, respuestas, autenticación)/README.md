@@ -25,15 +25,19 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 - **Patametros:** LoginDTO
 
 {
+
   "correo": "Admin@hotmail.com",
   "clave": "123"
+  
 }
 
 **Respuesta (200 OK):**
 
 {
+
   "isSuccess": true,
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  
 }
 
 
