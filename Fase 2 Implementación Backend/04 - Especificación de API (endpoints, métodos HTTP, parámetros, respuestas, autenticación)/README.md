@@ -46,14 +46,57 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 ---
 
 
-**Módulo Usuarios**
+**Módulo Usuario**
   
 **Endpoint completo:** http://localhost:5364/api/Usuario/Lista 
 
 - **Método:** **GET** /api/Usuario →  Lista todos los usuarios. 
-- **Método:** **POST** /api/Usuario → Crear usuario. **Patametros:** → [FromBody], UsuarioDTO
-- **Método:** **PUT**  /api/Usuario/{id} → Modificar usuario. **Patametros:** → [FromBody], UsuarioDTO
-- **Método:** **DELETE** /api/Usuario/{id} → Eliminar usuario. **Patametros:** → int id
+- **Método:** **POST** /api/Usuario → Crear usuario. **Parametros:** → [FromBody], UsuarioDTO
+- **Método:** **PUT**  /api/Usuario/{id} → Modificar usuario. **Parametros:** → [FromBody], UsuarioDTO
+- **Método:** **DELETE** /api/Usuario/{id} → Eliminar usuario. **Parametros:** → int id
+
+---
+
+
+**Módulo Rol**
+  
+**Endpoint completo:** http://localhost:5364/api/Rol/Lista 
+
+- **Método:** **GET** /api/Rol →  Lista todos los Roles.
+
+---
+
+
+**Módulo Producto**
+  
+**Endpoint completo:** http://localhost:5364/api/Producto/Lista 
+
+- **Método:** **GET** /api/Producto →  Lista todos los productos. 
+- **Método:** **POST** /api/Producto → Crear productos. **Parametros:** → [FromBody], ProductoDTO
+- **Método:** **PUT**  /api/Producto/{id} → Modificar productos. **Parametros:** → [FromBody], ProductoDTO
+- **Método:** **DELETE** /api/Producto/{id} → Eliminar productos. **Parametros:** → int id
+
+---
+
+**Módulo Categoria**
+  
+**Endpoint completo:** http://localhost:5364/api/Categoria/Lista 
+
+- **Método:** **GET** /api/Categoria →  Lista todos las categorias
+
+---
+
+
+**Módulo Venta**
+  
+**Endpoint completo:** http://localhost:5364/api/Venta 
+ 
+- **Método:** **POST** /api/Venta → Registrar venta. **Parametros:** → [FromBody], VentaDTO
+- **Método:** **GET**  /api/Venta → Obtiene el hostorial de la venta por filtros de fecha. **Parametros:** → (string buscarPor, string? numeroVenta, string? fechaInicio, string? fechaFin)
+
+- **Método:** **GET** /api/Venta → Obtiene el reporte de la venta por filtros de fecha. **Parametros:** → (string? fechaInicio, string? fechaFin)
+
+
 
 
 
