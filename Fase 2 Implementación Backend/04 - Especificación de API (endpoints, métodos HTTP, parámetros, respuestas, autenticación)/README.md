@@ -13,5 +13,28 @@ La Especificación de la API describe de manera estructurada los endpoints dispo
 
 **Autenticación**
 - **Tipo:** JWT (JSON Web Token).
+- **Método:** Al iniciar sesión (/api/Acceso/Login) se genera un token.
+- **Uso:** Se debe incluír en el encabezado de cada petición:
+- **Authorization:** Bearer <token> - El token se genera para permitirle al usuario acceder a las demás apis como veremos más adelante en un ejemplo con el cliente Posman
+
+---
+
+**Módulo de Acceso (Login)**
+**Endpoint:** /api/Acceso/Login
+- **Método:** POST
+- **Patametros:** LoginDTO
+
+{
+  "correo": "Admin@hotmail.com",
+  "clave": "123"
+}
+
+**Respuesta (200 OK):**
+
+{
+  "isSuccess": true,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+}
+
 
 
