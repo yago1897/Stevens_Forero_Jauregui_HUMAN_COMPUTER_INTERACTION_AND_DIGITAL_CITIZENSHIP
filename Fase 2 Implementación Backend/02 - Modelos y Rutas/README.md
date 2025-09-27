@@ -1,6 +1,6 @@
 # Modelos y rutas
 
-**Introducción**
+**1. Introducción**
 
 Los modelos representan las entidades de negocio del sistema de ventas Ecommerce, mientras que las rutas definen los endpoints de acceso a dichas entidades a través de la API. Esta separación permite organizar la lógica de datos y facilitar la interacción entre cliente y servidor.
 
@@ -8,7 +8,9 @@ Los modelos representan las entidades de negocio del sistema de ventas Ecommerce
 
 
 
-**Modelos principales**
+**2. Modelos principales**
+
+En ASP.NET Core, y más específicamente en el Sistema de Ventas Ecommerce, los modelos representan las entidades del dominio de la aplicación, es decir, los objetos con los que se trabaja en la base de datos y en la lógica de negocio.
 
 - **Usuario:** representa los datos de los usuarios (nombre, correo, contraseña, rol, etc.).
 - **Rol:** define los permisos de los usuarios.
@@ -58,6 +60,61 @@ Los modelos representan las entidades de negocio del sistema de ventas Ecommerce
 <img width="526" height="421" alt="image" src="https://github.com/user-attachments/assets/e99e3311-770e-4312-a0d8-b17b9c85233d" />
 
 ---
+
+
+**3. Rutas**
+
+En ASP.NET Core, las rutas definen el camino por el cual el cliente (frontend - Angular o Postman) accede a un recurso del backend.
+Básicamente, cada Controlador expone endpoints accesibles mediante URLs, y las rutas se especifican con atributos como [Route], [HttpGet], [HttpPost], etc.
+
+**Ejemplo en:** UsuarioController.cs
+
+<img width="519" height="519" alt="image" src="https://github.com/user-attachments/assets/60664be0-a096-4964-9b40-8f20566520d1" />
+
+<img width="690" height="326" alt="image" src="https://github.com/user-attachments/assets/1b5a0198-2673-4e65-9c4d-81e8f43664ca" />
+
+<img width="531" height="324" alt="image" src="https://github.com/user-attachments/assets/caecc04a-04cd-417b-b79f-4dae83462415" />
+
+---
+
+**Ejemplo en:** RolController.cs
+
+<img width="639" height="560" alt="image" src="https://github.com/user-attachments/assets/f132f29f-2695-45a2-9842-702b61b8a23a" />
+
+
+---
+
+
+**Ejemplo en:** ProductoController.cs
+
+<img width="536" height="558" alt="image" src="https://github.com/user-attachments/assets/f92cbeb0-e423-43d3-ae4c-e94dbc41606e" />
+
+<img width="652" height="349" alt="image" src="https://github.com/user-attachments/assets/8b1970bb-80a9-4972-b6cf-09100320b673" />
+
+<img width="562" height="548" alt="image" src="https://github.com/user-attachments/assets/2cb3c175-60ad-469a-acc3-a761c55d92bd" />
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
