@@ -120,6 +120,23 @@ Asi se visualiza el módulo **Productos**
 ![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
 
 
+---
+
+Consumo de Apis-Rest de **Categorías** que lista las categorías de los productos
+
+---
+
+<img width="1124" height="650" alt="image" src="https://github.com/user-attachments/assets/dfdb5b2e-a9bf-4a4a-b45b-0f5167079156" />
+
+---
+
+Asi se visualiza al desplegar la lista de categorías en el módulo **Productos**
+
+---
+
+<img width="1230" height="635" alt="image" src="https://github.com/user-attachments/assets/b05541fb-a8ac-482e-9859-571b6c0e9156" />
+
+
 
 
 ---
@@ -164,19 +181,7 @@ Así se visualiza la vista del módulo  **Reportes**
 ---
 
 
-Consumo de Apis-Rest de **Categorías** que lista las categorías de los productos
 
----
-
-<img width="1124" height="650" alt="image" src="https://github.com/user-attachments/assets/dfdb5b2e-a9bf-4a4a-b45b-0f5167079156" />
-
-
-
-Asi se visualiza al desplegar la lista de categorías en el módulo **Productos**
-
----
-
-<img width="1230" height="635" alt="image" src="https://github.com/user-attachments/assets/b05541fb-a8ac-482e-9859-571b6c0e9156" />
 
 
 
