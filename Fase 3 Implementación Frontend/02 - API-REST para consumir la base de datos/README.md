@@ -133,21 +133,28 @@ Consumo de Apis-Rest de Venta, los cuales son: Registrar, Historial, y Reporte.
 
 <img width="1134" height="648" alt="image" src="https://github.com/user-attachments/assets/e720a022-64d5-4043-b635-007c5267ab63" />
 
+---
 
 De igual forma se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
 
+
 <img width="850" height="143" alt="image" src="https://github.com/user-attachments/assets/0fecce24-b933-4a80-aec4-d32ddfa46484" />
 
-Así se visualiza la vista del módulo 
+---
 
-![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+Así se visualiza la vista del módulo **Venta**
 
+<img width="1279" height="552" alt="image" src="https://github.com/user-attachments/assets/a5438cac-2803-4e1f-9373-7c18110943ee" />
 
-Asi se visualizan los módulos **Venta** **Hostorial Ventas** y **Reportes**
-
-<img width="1277" height="544" alt="image" src="https://github.com/user-attachments/assets/6f313452-31f2-4617-8c1f-95a4fb287d6a" />
+---
+ 
+Así se visualiza la vista del módulo **Historial Ventas**
 
 <img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/a4fea9eb-54f4-4a10-bb71-b7bbc3d45e75" />
+
+---
+
+Así se visualiza la vista del módulo  **Reportes**
 
 <img width="1280" height="483" alt="image" src="https://github.com/user-attachments/assets/5cf97479-ba43-4d2e-8409-1b895e2786bd" />
 
