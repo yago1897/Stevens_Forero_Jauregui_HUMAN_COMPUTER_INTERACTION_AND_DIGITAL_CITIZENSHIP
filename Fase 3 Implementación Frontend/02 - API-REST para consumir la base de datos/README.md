@@ -40,8 +40,8 @@ A continuación se muestra parte del código de las Apis en .Net-Core, en este c
 
 ---
 
-Primero se debe ejecutar la aplicación en .Net-Core como se ve a continuación, ya que si no se ejecuta no consumura las APIS RESTfull en Angular.
-Se muestra a contunuación .Net-Core y se ejecuta presionando la tecla "F5" o presionando el botón "Continuar" ubicado en la parte superior, donde esta subrayado en color rojo
+Primero se debe ejecutar la aplicación en .Net-Core como se ve en la siguiente imagen, ya que si no se ejecuta no consumira las APIS RESTfull en Angular.
+Se ejecuta presionando la tecla "F5" o presionando el botón "Continuar" ubicado en la parte superior, donde esta subrayado en color rojo
 
 ![image](https://github.com/user-attachments/assets/032092e9-9493-4030-9511-559b56102aea)
 
@@ -51,6 +51,7 @@ Se muestra a contunuación .Net-Core y se ejecuta presionando la tecla "F5" o pr
 
 **A continuación se muestra como se consumen las API en Angular 14**
 
+Para efectos de práctica se utiliza el editor de código VS-Code.
 Este endPoint es el que se consume y se establece en el archivo "Environment.ts", para lograr la comunicación entre el backend y el frontend Angular. 
 
 
@@ -65,13 +66,13 @@ Este endPoint es el que se consume y se establece en el archivo "Environment.ts"
 
 **Módulo Usuarios**
 
-Utilizando el editor de código VS-Code vemos que se consume el Api de "Iniciar Sesión" como se aprecia en la imagen
+Se observa que se consume el Api de "Iniciar Sesión" como se aprecia en la imagen
 
 ![image](https://github.com/user-attachments/assets/627635bb-da13-4885-b16a-8bf2b32c9a54)
 
 ---
 
-Se observa que se consumen las demás Apis-Rest que son: Guardar, Editar y eliminar, la aplicación se ejecuta en el puerto 4200 de localhost
+Se observa que se consumen las demás Apis-Rest, las cuales son: Guardar, Editar y eliminar, la aplicación se ejecuta en el puerto 4200 de localhost
 
 
 ![image](https://github.com/user-attachments/assets/ac46493a-cde8-4ca0-ace2-44a268e5b2ad)
@@ -79,7 +80,7 @@ Se observa que se consumen las demás Apis-Rest que son: Guardar, Editar y elimi
 ---
 
 
-Luego estando en el editor de código VS-Code se ejecuta la aplicación escribiendo el siguiente comando "ng serve --open" como se ve a continuación
+Con el editor de código VS-Code se ejecuta la aplicación escribiendo el siguiente comando "ng serve --open" como se ve a continuación
 
 ![image](https://github.com/user-attachments/assets/48efcf60-ce37-42ab-8088-ec3d3504e589)
 
@@ -87,7 +88,7 @@ Luego estando en el editor de código VS-Code se ejecuta la aplicación escribie
 ---
 
 
-Y listo, vemos que la aplicación se ejecuta en el puerto 4200 como se aprecia en la imagen.
+Y se observa que la aplicación se ejecuta en el puerto 4200 como se aprecia en la imagen.
 
 ![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
 
@@ -97,19 +98,19 @@ Y listo, vemos que la aplicación se ejecuta en el puerto 4200 como se aprecia e
 
 **Módulo Productos**
 
-Consumo de Apis-Rest de Productos que son: Listar, Guardar, Editar y eliminar
+Consumo de Apis-Rest de Productos: Listar, Guardar, Editar y eliminar
 
 <img width="1074" height="650" alt="image" src="https://github.com/user-attachments/assets/ca0e3fd5-00ce-46a9-869b-5c14a108044e" />
 
 <img width="1185" height="177" alt="image" src="https://github.com/user-attachments/assets/2b70b106-9453-4df3-9671-40f645de4f30" />
 
 
-Y listo, vemos que la aplicación se ejecuta en el puerto 4200 con el comando "ng serve --open" como se aprecia en la imagen.
+Y se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
 
 ![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
 
 
-Ejecución de la aplicación 
+Asi se visualiza el módulo **Productos**
 
 <img width="1280" height="550" alt="image" src="https://github.com/user-attachments/assets/8d1e1026-7852-4ff8-aa96-b1500a1e3bd1" />
 
@@ -117,7 +118,44 @@ Ejecución de la aplicación
 ---
 
 
+**Módulo Venta - Historial Ventas - Reportes**
 
+Consumo de Apis-Rest de Venta: Registrar, Historial, y Reporte
+
+<img width="1134" height="648" alt="image" src="https://github.com/user-attachments/assets/e720a022-64d5-4043-b635-007c5267ab63" />
+
+De igual forma se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
+
+![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+
+
+Asi se visualizan los módulos **Venta** **Hostorial Ventas** y **Reportes**
+
+<img width="1277" height="544" alt="image" src="https://github.com/user-attachments/assets/6f313452-31f2-4617-8c1f-95a4fb287d6a" />
+
+<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/a4fea9eb-54f4-4a10-bb71-b7bbc3d45e75" />
+
+<img width="1280" height="483" alt="image" src="https://github.com/user-attachments/assets/5cf97479-ba43-4d2e-8409-1b895e2786bd" />
+
+
+
+---
+
+
+**Módulo Historial Ventas**
+
+Consumo de Apis-Rest de Venta: Registrar, Historial, y Reporte
+
+<img width="1134" height="648" alt="image" src="https://github.com/user-attachments/assets/e720a022-64d5-4043-b635-007c5267ab63" />
+
+De igual forma se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
+
+![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+
+
+Asi se visualiza el módulo **Venta**
+
+<img width="1277" height="544" alt="image" src="https://github.com/user-attachments/assets/6f313452-31f2-4617-8c1f-95a4fb287d6a" />
 
 
 
