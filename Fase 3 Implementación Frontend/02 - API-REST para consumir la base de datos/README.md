@@ -40,6 +40,14 @@ A continuación se muestra parte del código de las Apis en .Net-Core, en este c
 
 ---
 
+Primero se debe ejecutar la aplicación en .Net-Core como se ve a continuación, ya que si no se ejecuta no consumura las APIS RESTfull en Angular.
+Se muestra a contunuación .Net-Core y se ejecuta presionando la tecla "F5" o presionando el botón "Continuar" ubicado en la parte superior, donde esta subrayado en color rojo
+
+![image](https://github.com/user-attachments/assets/032092e9-9493-4030-9511-559b56102aea)
+
+
+---
+
 
 **A continuación se muestra como se consumen las API en Angular 14**
 
@@ -70,10 +78,6 @@ Se observa que se consumen las demás Apis-Rest que son: Guardar, Editar y elimi
 
 ---
 
-Primero se debe ejecutar la aplicación en .Net-Core como se ve a continuación, ya que si no se ejecuta no consumura las APIS RESTfull en Angular.
-Se muestra a contunuación .Net-Core y se ejecuta presionando la tecla "F5" o presionando el botón "Continuar" ubicado en la parte superior, donde esta subrayado en color rojo
-
-![image](https://github.com/user-attachments/assets/032092e9-9493-4030-9511-559b56102aea)
 
 Luego estando en el editor de código VS-Code se ejecuta la aplicación escribiendo el siguiente comando "ng serve --open" como se ve a continuación
 
