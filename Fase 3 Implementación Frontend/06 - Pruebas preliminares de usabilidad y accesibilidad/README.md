@@ -36,7 +36,9 @@ Las pruebas preliminares de usabilidad y accesibilidad al Sistema Venta Ecommerc
 Las pruebas preliminares muestran que el sistema presenta una buena base de usabilidad y accesibilidad. También se recomienda continuar con pruebas más exhaustivas con usuarios finales y herramientas automáticas como Lighthouse y WAVE, para reforzar el cumplimiento de estándares internacionales de accesibilidad, lo cual se verá más adelante en la fase 4 llamada **Evaluación del Prototipo**.
 
 
+
 ---
+
 
 
 **Referencias**
