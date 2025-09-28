@@ -36,8 +36,8 @@
 **Módulo Ventas**
 - 7.1 Búsqueda de producto
 - 7.2 Selección de cantidad
-- 7.3 Registro de compra
-- 7.4 Métodos de pago (tarjeta, efectivo)
+- 7.3 Métodos de pago (tarjeta, efectivo)
+- 7.4 Registo de compra
 
 **Módulo Historial de Ventas**
 - 8.1 Filtro por fechas
@@ -191,84 +191,157 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 <img width="1229" height="520" alt="image" src="https://github.com/user-attachments/assets/6928424d-b355-4e8b-a60e-2eebddf68557" />
 
 
+---
+
+
+**5.3 Eliminar usuario**
+
+- Seleccionar el usuario de la lista.
+
+- Presionar la opción Eliminar.
+
+- Confirmar la eliminación en la ventana emergente.
+
+---
+
+<img width="1233" height="392" alt="image" src="https://github.com/user-attachments/assets/9b90e348-4504-4b50-b9fd-7950e336a761" />
+
+---
+
+<img width="1277" height="579" alt="image" src="https://github.com/user-attachments/assets/f6483b8e-0b76-4c88-8ac1-b3f329238d4e" />
+
+---
+
+<img width="1227" height="385" alt="image" src="https://github.com/user-attachments/assets/ef3d76c4-61d2-4cf5-9231-02e7af53f340" />
+
+---
 
 
 
+**6. Módulo Productos**
+- 6.1 Crear producto
+
+- Ingresar al módulo Productos.
+
+- Seleccionar la opción Crear producto.
+
+- Completar el formulario con la información solicitada (nombre, precio, stock, categoría, etc.).
+
+- Guardar los cambios.
+
+---
+
+<img width="1225" height="609" alt="image" src="https://github.com/user-attachments/assets/d8af6352-08f4-4314-aaf1-f375e7138791" />
+
+---
+
+<img width="1187" height="453" alt="image" src="https://github.com/user-attachments/assets/0d561729-c398-4c95-9e6f-1a0a17cce606" />
+
+
+---
 
 
 
-5.3 Eliminar usuario
+**6.2 Editar producto**
 
-Seleccionar el usuario de la lista.
+- Buscar el producto en la lista.
 
-Presionar la opción Eliminar.
+- Seleccionar la opción Editar.
 
-Confirmar la eliminación en la ventana emergente.
+- Modificar los campos necesarios.
 
-6. Módulo Productos
-6.1 Crear producto
+- Guardar los cambios.
 
-Ingresar al módulo Productos.
+---
 
-Seleccionar la opción Crear producto.
+<img width="1233" height="450" alt="image" src="https://github.com/user-attachments/assets/4f083995-4db5-4c7a-b6ea-4e1a5a21856f" />
 
-Completar el formulario con la información solicitada (nombre, precio, stock, categoría, etc.).
+---
 
-Guardar los cambios.
+<img width="1216" height="587" alt="image" src="https://github.com/user-attachments/assets/4590a08d-5986-43e8-a481-dcf1e9dc25a6" />
 
-6.2 Editar producto
 
-Buscar el producto en la lista.
+---
 
-Seleccionar la opción Editar.
 
-Modificar los campos necesarios.
+**6.3 Eliminar producto**
 
-Guardar los cambios.
+- Seleccionar el producto de la lista.
 
-6.3 Eliminar producto
+- Presionar la opción Eliminar.
 
-Seleccionar el producto de la lista.
+- Confirmar la eliminación en la ventana emergente.
 
-Presionar la opción Eliminar.
+---
 
-Confirmar la eliminación en la ventana emergente.
 
-7. Módulo Ventas
-7.1 Búsqueda de producto
+<img width="1232" height="463" alt="image" src="https://github.com/user-attachments/assets/73ea447b-6ef7-4877-ac01-c9b5553a4804" />
 
-Ingresar al módulo Ventas.
+---
 
-Introducir el nombre o código del producto en el buscador.
+<img width="1280" height="539" alt="image" src="https://github.com/user-attachments/assets/659d5e6f-ecf2-4344-b0d3-583d79c44a57" />
 
-7.2 Selección de cantidad
+---
 
-Seleccionar el producto.
+<img width="1239" height="425" alt="image" src="https://github.com/user-attachments/assets/3504de3d-b104-4c93-a3b3-3a34a0d82674" />
 
-Definir la cantidad a comprar.
 
-7.3 Registro de compra
+---
 
-Confirmar los productos seleccionados.
 
-Presionar la opción Registrar compra.
+**7. Módulo Ventas**
+- 7.1 Búsqueda de producto
 
-7.4 Métodos de pago
+- Ingresar al módulo Ventas.
 
-Tarjeta: ingresar los datos correspondientes.
+- Introducir el nombre o código del producto en el buscador.
 
-Efectivo: registrar el pago en caja.
+**7.2 Selección de cantidad**
 
-8. Módulo Historial de Ventas
-8.1 Filtro por fechas
+- Seleccionar el producto.
 
-Acceder al módulo Historial de ventas.
+- Definir la cantidad a comprar.
+  
 
-Seleccionar el rango de fechas deseado.
+**7.3 Métodos de pago**
 
-8.2 Consulta de ventas realizadas
+- Tarjeta: ingresar los datos correspondientes.
 
-El sistema mostrará las ventas registradas en el período seleccionado con detalles de cada transacción.
+- Efectivo: registrar el pago contra-entrega.
+  
+- Agregar el producto al carrito.
+  
+
+**7.4 Registro de compra**
+
+- Confirmar los productos seleccionados.
+
+- Presionar la opción Registrar compra.
+
+
+---
+
+
+<img width="1232" height="525" alt="image" src="https://github.com/user-attachments/assets/1690c5a8-86ec-4321-aba7-8f6bc65d9f09" />
+
+---
+
+<img width="1280" height="621" alt="image" src="https://github.com/user-attachments/assets/b0f0f4ac-5ab2-423a-9e52-4b3c2df0e2e0" />
+
+---
+
+
+
+**8. Módulo Historial de Ventas**
+- 8.1 Filtro por fechas
+
+- Acceder al módulo Historial de ventas.
+
+- Seleccionar el rango de fechas deseado.
+
+**8.2 Consulta de ventas realizadas**
+
+- El sistema mostrará las ventas registradas en el período seleccionado con detalles de cada transacción.
 
 9. Módulo Reportes
 9.1 Generación de reportes
