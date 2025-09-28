@@ -105,7 +105,8 @@ El usuario debe ingresar al sistema a través de la URL oficial proporcionada po
 Al acceder al Sistema Venta Ecommerce , se mostrará la pantalla de inicio de sesión. En esta parte es donde se debe ingresar el email y la contraseña.
 
 
-<img width="1279" height="600" alt="image" src="https://github.com/user-attachments/assets/51d2a4eb-aa74-4547-bf3d-baaa876563d1" />
+<img width="1280" height="615" alt="image" src="https://github.com/user-attachments/assets/92dd0c0d-338f-4089-acb8-18cf66c4cfc8" />
+
 
 ---
 
@@ -113,12 +114,19 @@ Si los datos son correctos, el sistema redirige al Dashboard principal.
 
 En caso de ser incorrecto, aparecerá un mensaje de advertencia.
 
+<img width="337" height="103" alt="image" src="https://github.com/user-attachments/assets/eccc8a24-e6a5-4273-bb39-7ea603d7c87b" />
+
+
 ---
 
 **4. Módulo Dashboard Principal**
-4.1 Descripción general
+- 4.1 Descripción general
 
 El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a los módulos principales del sistema.
+
+<img width="1279" height="600" alt="image" src="https://github.com/user-attachments/assets/51d2a4eb-aa74-4547-bf3d-baaa876563d1" />
+
+---
 
 4.2 Funcionalidades principales
 
