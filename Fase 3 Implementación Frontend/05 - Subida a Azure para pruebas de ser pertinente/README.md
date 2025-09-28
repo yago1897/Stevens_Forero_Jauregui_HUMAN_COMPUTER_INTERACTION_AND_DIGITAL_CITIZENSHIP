@@ -17,21 +17,25 @@ Se ingresa al portal de Azure
 ---
 
 Se crea la suscripción en azure para realizar el despliegue
+
 ![image](https://github.com/user-attachments/assets/f72ac6f3-55df-41ef-a145-65b74588e7f2)
 
 ---
 
 Luego de crear la suscripción se debe crear el "Grupo de Recursos"
+
 ![image](https://github.com/user-attachments/assets/e5c4647a-b8bc-4c22-b1eb-5d8943206dc7)
 
 ---
 
 Luego de crear el grupo de recursos se crea la appWeb donde estará alojado el código
+
 ![image](https://github.com/user-attachments/assets/addf4b7a-2847-4280-95c9-dd9e0c7d603b)
 
 ---
 
 Y se configura los datos para crear la aplcicación como se aprecia en la imagen
+
 ![image](https://github.com/user-attachments/assets/c6753dc0-a9ac-4acb-8cd8-c10672a0f4b1)
 ![image](https://github.com/user-attachments/assets/a366ae99-66fa-465d-9b19-45d9a2ba9601)
 ![image](https://github.com/user-attachments/assets/75692b5e-b260-403a-ae13-065d0d28e23c)
@@ -39,28 +43,33 @@ Y se configura los datos para crear la aplcicación como se aprecia en la imagen
 ---
 
 Y vemos que se creo el recurso exitosamente, es decir la app para alojar el código
+
 ![image](https://github.com/user-attachments/assets/3990a82b-49da-4b94-85c3-ff55729d70ab)
 
 
 ---
 
 El siguiente paso es crear la base de datos SQL AZURE para alojar la base de datos creada en sql server como se ve en la imagen
+
 ![image](https://github.com/user-attachments/assets/d704686f-6d2a-41f4-af46-e74d9b58e7e0)
 
 ---
 
 Luego en la plataforma visual Studio de .Net se publica la aplicación como se ve en la imagen
+
 ![image](https://github.com/user-attachments/assets/6c332275-aeb0-4f5f-8cb7-f48340216240)
 
 ---
 
 Al escoger la opción de publicar automaticamente visual studio reconoce la appWeb creada en Azure con el nombre del grupo de recursos como se observa em la imagen
+
 ![image](https://github.com/user-attachments/assets/66fe147f-3f6b-4338-889d-4abe648b3e78)
 
 
 ---
 
 Se crea el perfil de publicación como se esperaba
+
 ![image](https://github.com/user-attachments/assets/9894003b-e658-48c7-89f1-e80eaabf6ab6)
 
 ---
@@ -71,6 +80,7 @@ Se crea el perfil de publicación como se esperaba
 ---
 
 Y se presiona el botón de publicar como se ve en la imagen
+
 ![image](https://github.com/user-attachments/assets/5c207626-d4dd-4a5c-acd2-306709c1bd77)
 
 ---
@@ -78,11 +88,13 @@ Y se presiona el botón de publicar como se ve en la imagen
 Y vemos que la publicación fue exitosa como se aprecia en la imagen
 
 Y se observa la URL es el dominio predeterminada de Azure donde se aloja la aplicación Web Api, que en este caso es el BACKEND 
+
 ![image](https://github.com/user-attachments/assets/7465a311-fb3b-4a5d-b7e1-957c0ef71401)
 
 ---
 
 Se observa que es la misma url del dominio donde se encuentra el BACKEND
+
 ![image](https://github.com/user-attachments/assets/6d6fb60c-f6d7-47ac-ab00-4aa77eafec6c)
 
 ---
@@ -96,17 +108,20 @@ tal como se realizó con el anterior, se crea una appWeb como se ve en la imagen
 ---
 
 Esta aplicación recibe el nombre de AngularBiu como se ve en la imagen
+
 ![image](https://github.com/user-attachments/assets/d48e883b-32d6-486f-83b8-6e7b925010fc)
 
 ---
 
-Y se observa que se crea el alojamiento como se ve en la imagen, para alojar la eplicación de Angular 15
+Y se observa que se crea el alojamiento como se ve en la imagen, para alojar la eplicación de Angular 14
+
 ![image](https://github.com/user-attachments/assets/5f57d4ae-1688-4116-bc1b-d7c6f49d6e49)
 
 
 ---
 
 Si presionamos el enlace de la url señalada em color rojo como se ve en la imagen
+
 ![image](https://github.com/user-attachments/assets/64b40f3e-b126-432c-b30d-89ac44ded81a)
 
 ---
@@ -124,6 +139,7 @@ La aplicación angular es realizada en VisualCode como se ve en la imagen y para
 ---
 
 Como se observa en la imagen se elije la opción "Deploy to WebApp"
+
 ![image](https://github.com/user-attachments/assets/419f5f78-5ffc-4b00-8e45-b2cbbed084d2)
 
 ---
