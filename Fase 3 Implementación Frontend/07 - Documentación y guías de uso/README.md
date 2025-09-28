@@ -394,7 +394,7 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 
 **11.2 Canales de soporte**
 
-- Correo electrónico: soporte@empresa.com
+- Correo electrónico: soporte@stevens.com
 
 - Teléfono: +57 3045424551
 
