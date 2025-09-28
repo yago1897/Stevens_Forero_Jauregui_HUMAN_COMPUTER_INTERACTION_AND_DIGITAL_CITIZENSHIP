@@ -107,6 +107,11 @@ Consumo de Apis-Rest de Productos: Listar, Guardar, Editar y eliminar
 
 Y se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
 
+
+<img width="850" height="143" alt="image" src="https://github.com/user-attachments/assets/0fecce24-b933-4a80-aec4-d32ddfa46484" />
+
+
+
 Asi se visualiza el módulo **Productos**
 
 
@@ -121,12 +126,19 @@ Asi se visualiza el módulo **Productos**
 
 **Módulos Venta - Historial Ventas y Reportes**
 
-Consumo de Apis-Rest de Venta: Registrar, Historial, y Reporte
+Consumo de Apis-Rest de Venta, los cuales son: Registrar, Historial, y Reporte.
+
+**Módulo Venta**
 
 
 <img width="1134" height="648" alt="image" src="https://github.com/user-attachments/assets/e720a022-64d5-4043-b635-007c5267ab63" />
 
+
 De igual forma se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
+
+<img width="850" height="143" alt="image" src="https://github.com/user-attachments/assets/0fecce24-b933-4a80-aec4-d32ddfa46484" />
+
+Así se visualiza la vista del módulo 
 
 ![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
 
