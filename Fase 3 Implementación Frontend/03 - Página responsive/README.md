@@ -31,6 +31,7 @@ En el sistema de venta Ecommerce una página responsive es aquella que se adapta
 
 
 **3. A continuación se realizan las siguientes pruebas**
+
 ---
 
 - Se minimiza y ajusta el ancho de la ventana del navegador lo más posible y se evidencia que sigue manteniendo su uniformidad
@@ -38,11 +39,29 @@ En el sistema de venta Ecommerce una página responsive es aquella que se adapta
 <img width="514" height="533" alt="image" src="https://github.com/user-attachments/assets/d24b6654-6121-4107-96c4-0a3656efc5a3" />
 
 ---
+
 - Con la herramienta DevTools como se ve en la siguiente imagen se puede configurar y simular pantallas de distintos dispositivos (iPhone, iPad, Galaxy, etc.). 
 
 <img width="1280" height="714" alt="image" src="https://github.com/user-attachments/assets/efc1dbea-5666-45a8-9cf0-11b08b223e6a" />
 
+---
 
+<img width="1131" height="651" alt="image" src="https://github.com/user-attachments/assets/a5ea6f5d-5a0c-484f-a700-c246bcc3e4bb" />
+
+---
+
+**Conclusión**
+
+El diseño responsive en el Sistema  Venta Ecommerce asegura que los usuarios puedan interactuar de manera fluida desde cualquier dispositivo, lo que aumenta la usabilidad y la accesibilidad de la aplicación. Gracias a Angular, se logra una interfaz flexible, escalable y centrada en el usuario.
+
+---
+
+
+
+**Referencias**
+
+- https://www.w3.org/TR/css3-mediaqueries/
+- https://material.angular.io/
 
 
 
