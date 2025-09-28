@@ -343,25 +343,44 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 
 - El sistema mostrará las ventas registradas en el período seleccionado con detalles de cada transacción.
 
-9. Módulo Reportes
-9.1 Generación de reportes
+---
 
-Ingresar al módulo Reportes.
+<img width="1229" height="598" alt="image" src="https://github.com/user-attachments/assets/16fae5ae-78b9-46d7-9523-973368afd207" />
 
-Seleccionar el tipo de reporte.
 
-Definir el rango de fechas.
+---
 
-9.2 Exportación a Excel
 
-El sistema permite exportar los reportes generados en formato Excel, para análisis o respaldo.
+**9. Módulo Reportes**
+- 9.1 Generación de reportes
 
-10. Estado de la Interfaz
-10.1 Indicadores visuales
+- Ingresar al módulo Reportes.
 
-El sistema muestra mensajes de confirmación, error o advertencia según la acción realizada.
+- Seleccionar el tipo de reporte.
 
-10.2 Retroalimentación al usuario
+- Definir el rango de fechas.
+
+**9.2 Exportación a Excel**
+
+- El sistema permite exportar los reportes generados en formato Excel, para análisis o respaldo.
+
+---
+
+
+<img width="1232" height="423" alt="image" src="https://github.com/user-attachments/assets/c057acbe-fb75-4099-bd67-11fd58686aec" />
+
+
+**10. Estado de la Interfaz**
+
+- 10.1 Indicadores visuales
+
+- El sistema muestra mensajes de confirmación, error o advertencia según la acción realizada.
+
+---
+
+
+
+**10.2 Retroalimentación al usuario**
 
 Verde: operación exitosa.
 
