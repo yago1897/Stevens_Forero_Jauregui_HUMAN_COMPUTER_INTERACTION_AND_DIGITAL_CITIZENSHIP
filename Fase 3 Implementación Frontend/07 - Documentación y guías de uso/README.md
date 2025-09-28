@@ -48,7 +48,7 @@
 - 9.2 Exportación a Excel
 
 **Estado de la Interfaz**
-- 10.1 Indicadores visuales (mensajes de éxito, error, advertencias)
+- 10.1 Indicadores visuales
 
 **Soporte y Contacto**
 - 11.1 Información de contacto
@@ -374,7 +374,7 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 
 <img width="1280" height="269" alt="image" src="https://github.com/user-attachments/assets/1be38a3f-85a8-451d-8f52-44db948d5297" />
 
-
+---
 
 **10. Estado de la Interfaz**
 
@@ -399,6 +399,8 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 - Teléfono: +57 3045424551
 
 - Horario de atención: Lunes a viernes de 8:00 a.m. a 6:00 p.m.
+
+---
 
 **Conclusión:**
 
