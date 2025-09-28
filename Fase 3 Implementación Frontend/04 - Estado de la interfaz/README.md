@@ -26,7 +26,7 @@ El estado de la interfaz del Sitema Venta Ecommerce describe los diferentes esce
 
 ---
 
-**Estado inicial (estático):**
+**Estado dinámico:**
 
 - Campos de formularios se completan a medida que el usuario escribe.
 - Botones se activan o desactivan dependiendo de la validez de los datos ingresados.
