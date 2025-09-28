@@ -2,29 +2,31 @@
 
 ---
 
-Índice
+**Índice**
+
 
 **Introducción**
 - 1.1 Propósito del manual
 - 1.2 Público objetivo
 - 1.3 Alcance del sistema
 
-Requisitos Previos
-2.1 Requisitos técnicos mínimos
-2.2 Acceso al sistema
+**Requisitos Previos**
+-2.1 Requisitos técnicos mínimos
+-2.2 Acceso al sistema
 
-Ingreso al Sistema
-3.1 Pantalla de login
-3.2 Recuperación de contraseña
+**Ingreso al Sistema**
+-3.1 Pantalla de login
 
-Módulo Dashboard Principal
-4.1 Descripción general
-4.2 Funcionalidades principales
 
-Módulo Usuarios
-5.1 Crear usuario
-5.2 Editar usuario
-5.3 Eliminar usuario
+**Módulo Dashboard Principal**
+-4.1 Descripción general
+-4.2 Funcionalidades principales
+
+**Módulo Usuarios**
+-5.1 Crear usuario
+-5.2 Editar usuario
+-5.3 Eliminar usuario
+-5.4 Consultar usuario
 
 Módulo Productos
 6.1 Crear producto
