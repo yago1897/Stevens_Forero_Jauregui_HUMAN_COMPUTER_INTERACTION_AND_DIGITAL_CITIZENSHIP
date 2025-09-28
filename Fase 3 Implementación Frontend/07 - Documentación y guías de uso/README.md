@@ -164,15 +164,38 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 ---
 
 
-5.2 Editar usuario
+**5.2 Editar usuario**
 
-Buscar el usuario en la lista.
+- Buscar el usuario en la lista.
 
-Seleccionar la opción Editar.
+- Seleccionar la opción Editar.
 
-Modificar la información deseada.
+- Modificar la información deseada.
+  
+- Guardar los cambios.
 
-Guardar los cambios.
+---
+
+<img width="1280" height="420" alt="image" src="https://github.com/user-attachments/assets/b137b77a-95a9-4836-a9b6-2ef153ae0513" />
+
+---
+
+<img width="1233" height="435" alt="image" src="https://github.com/user-attachments/assets/44f37e2f-07bd-4b06-a484-f9a1c8068285" />
+
+---
+
+<img width="1216" height="630" alt="image" src="https://github.com/user-attachments/assets/0ad82b77-0ce8-4793-bd7f-c294e75c6bad" />
+
+---
+
+<img width="1229" height="520" alt="image" src="https://github.com/user-attachments/assets/6928424d-b355-4e8b-a60e-2eebddf68557" />
+
+
+
+
+
+
+
 
 5.3 Eliminar usuario
 
