@@ -75,6 +75,8 @@ Este documento está dirigido a los usuarios interactúan con el sistema, como a
 
 El sistema permite la gestión de usuarios y productos, la gestión de ventas, la consulta de historiales y la generación de reportes.
 
+---
+
 **2. Requisitos Previos**
 - 2.1 Requisitos técnicos mínimos
 
@@ -84,22 +86,36 @@ Conexión estable a Internet.
 
 Credenciales de acceso al sistema proporcionadas por el administrador.
 
-2.2 Acceso al sistema
+---
+
+**2.2 Acceso al sistema**
 
 El usuario debe ingresar al sistema a través de la URL oficial proporcionada por la organización.
 
-3. Ingreso al Sistema
-3.1 Pantalla de login
+**http://localhost:4200/login**
+
+<img width="740" height="42" alt="image" src="https://github.com/user-attachments/assets/b90e1c06-bb36-422f-83f1-82b830aacd25" />
+
+
+---
+
+**3. Ingreso al Sistema**
+- 3.1 Pantalla de login
 
 Al acceder al Sistema Venta Ecommerce , se mostrará la pantalla de inicio de sesión. En esta parte es donde se debe ingresar el email y la contraseña.
+
+
+<img width="1279" height="600" alt="image" src="https://github.com/user-attachments/assets/51d2a4eb-aa74-4547-bf3d-baaa876563d1" />
+
+---
 
 Si los datos son correctos, el sistema redirige al Dashboard principal.
 
 En caso de ser incorrecto, aparecerá un mensaje de advertencia.
 
+---
 
-
-4. Módulo Dashboard Principal
+**4. Módulo Dashboard Principal**
 4.1 Descripción general
 
 El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a los módulos principales del sistema.
