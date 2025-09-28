@@ -63,16 +63,20 @@
 
 El siguiente manual tiene como objetivo guiar al usuario final en el uso correcto del Sistema de Venta Ecommerce, para facilitar la navegación por los diferentes módulos y explicando las principales funciones disponibles.
 
-1.2 Público objetivo
+---
+
+**1.2 Público objetivo**
 
 Este documento está dirigido a los usuarios interactúan con el sistema, como administradores, vendedores o personal autorizado que gestionará la información relacionada con usuarios, productos, ventas e informes.
 
-1.3 Alcance del sistema
+---
+
+**1.3 Alcance del sistema**
 
 El sistema permite la gestión de usuarios y productos, la gestión de ventas, la consulta de historiales y la generación de reportes.
 
-2. Requisitos Previos
-2.1 Requisitos técnicos mínimos
+**2. Requisitos Previos**
+- 2.1 Requisitos técnicos mínimos
 
 Navegador web actualizado (Google Chrome, Microsoft Edge o Mozilla Firefox).
 
