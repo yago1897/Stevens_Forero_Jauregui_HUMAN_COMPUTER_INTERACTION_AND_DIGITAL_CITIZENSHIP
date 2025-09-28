@@ -57,8 +57,9 @@
 
 
 ---
-1. Introducción
-1.1 Propósito del manual
+
+**1. Introducción**
+- 1.1 Propósito del manual
 
 El siguiente manual tiene como objetivo guiar al usuario final en el uso correcto del Sistema de Venta Ecommerce, para facilitar la navegación por los diferentes módulos y explicando las principales funciones disponibles.
 
