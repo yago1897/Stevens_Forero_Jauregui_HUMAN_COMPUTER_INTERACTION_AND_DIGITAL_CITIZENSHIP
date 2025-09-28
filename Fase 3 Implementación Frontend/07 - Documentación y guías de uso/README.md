@@ -28,16 +28,16 @@
 - 5.3 Eliminar usuario
 - 5.4 Consultar usuario
 
-Módulo Productos
-6.1 Crear producto
-6.2 Editar producto
-6.3 Eliminar producto
+**Módulo Productos**
+- 6.1 Crear producto
+- 6.2 Editar producto
+- 6.3 Eliminar producto
 
-Módulo Ventas
-7.1 Búsqueda de producto
-7.2 Selección de cantidad
-7.3 Registro de compra
-7.4 Métodos de pago (tarjeta, efectivo)
+**Módulo Ventas**
+- 7.1 Búsqueda de producto
+- 7.2 Selección de cantidad
+- 7.3 Registro de compra
+- 7.4 Métodos de pago (tarjeta, efectivo)
 
 Módulo Historial de Ventas
 8.1 Filtro por fechas
