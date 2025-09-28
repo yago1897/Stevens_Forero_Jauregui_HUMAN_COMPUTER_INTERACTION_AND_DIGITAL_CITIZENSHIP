@@ -1,4 +1,4 @@
-# Manual de Usuario – Sistema de Venta eCommerce
+# Manual de Usuario – Sistema de Venta Ecommerce
 
 ---
 
@@ -11,8 +11,8 @@
 - 1.3 Alcance del sistema
 
 **Requisitos Previos**
--2.1 Requisitos técnicos mínimos
--2.2 Acceso al sistema
+ -2.1 Requisitos técnicos mínimos
+ -2.2 Acceso al sistema
 
 **Ingreso al Sistema**
 -3.1 Pantalla de login
