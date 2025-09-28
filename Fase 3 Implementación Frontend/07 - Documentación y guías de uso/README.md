@@ -39,21 +39,21 @@
 - 7.3 Registro de compra
 - 7.4 Métodos de pago (tarjeta, efectivo)
 
-Módulo Historial de Ventas
-8.1 Filtro por fechas
-8.2 Consulta de ventas realizadas
+**Módulo Historial de Ventas**
+- 8.1 Filtro por fechas
+- 8.2 Consulta de ventas realizadas
 
-Módulo Reportes
-9.1 Generación de reportes
-9.2 Exportación a Excel
+**Módulo Reportes**
+- 9.1 Generación de reportes
+- 9.2 Exportación a Excel
 
-Estado de la Interfaz
-10.1 Indicadores visuales (mensajes de éxito, error, advertencias)
-10.2 Retroalimentación al usuario
+**Estado de la Interfaz**
+- 10.1 Indicadores visuales (mensajes de éxito, error, advertencias)
+- 10.2 Retroalimentación al usuario
 
-Soporte y Contacto
-11.1 Información de contacto
-11.2 Canales de soporte
+**Soporte y Contacto**
+- 11.1 Información de contacto
+- 11.2 Canales de soporte
 
 
 ---
