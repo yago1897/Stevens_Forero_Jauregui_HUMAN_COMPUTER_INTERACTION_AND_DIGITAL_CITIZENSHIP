@@ -99,6 +99,12 @@ Consumo de Apis-Rest de Productos que son: Listar, Guardar, Editar y eliminar
 
 <img width="1185" height="177" alt="image" src="https://github.com/user-attachments/assets/2b70b106-9453-4df3-9671-40f645de4f30" />
 
+
+Y listo, vemos que la aplicación se ejecuta en el puerto 4200 con el comando "ng serve --open" como se aprecia en la imagen.
+
+![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+
+
 Ejecución de la aplicación 
 
 <img width="1280" height="550" alt="image" src="https://github.com/user-attachments/assets/8d1e1026-7852-4ff8-aa96-b1500a1e3bd1" />
