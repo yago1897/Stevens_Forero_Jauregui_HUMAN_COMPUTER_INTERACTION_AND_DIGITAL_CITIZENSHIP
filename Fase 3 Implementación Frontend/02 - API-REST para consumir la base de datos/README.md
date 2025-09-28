@@ -164,20 +164,20 @@ Así se visualiza la vista del módulo  **Reportes**
 ---
 
 
-**Módulo Historial Ventas**
+Consumo de Apis-Rest de **Categorías** que lista las categorías de los productos
 
-Consumo de Apis-Rest de Venta: Registrar, Historial, y Reporte
+---
 
-<img width="1134" height="648" alt="image" src="https://github.com/user-attachments/assets/e720a022-64d5-4043-b635-007c5267ab63" />
-
-De igual forma se observa que la aplicación se ejecuta en el puerto 4200, con el comando "ng serve --open" como se aprecia en la imagen.
-
-![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+<img width="1124" height="650" alt="image" src="https://github.com/user-attachments/assets/dfdb5b2e-a9bf-4a4a-b45b-0f5167079156" />
 
 
-Asi se visualiza el módulo **Venta**
 
-<img width="1277" height="544" alt="image" src="https://github.com/user-attachments/assets/6f313452-31f2-4617-8c1f-95a4fb287d6a" />
+Asi se visualiza al desplegar la lista de categorías en el módulo **Productos**
+
+---
+
+<img width="1230" height="635" alt="image" src="https://github.com/user-attachments/assets/b05541fb-a8ac-482e-9859-571b6c0e9156" />
+
 
 
 
