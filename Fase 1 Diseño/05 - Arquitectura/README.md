@@ -15,7 +15,7 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 **Descripción:** El sistema sigue una arquitectura en capas (N-Layered Architecture), estructurado de la siguiente manera:
 
 **1. Capa de Presentación (Cliente Web):**
-  - Desarrollada en Angular 15.
+  - Desarrollada en Angular 14.
   - Entorno de desarrollo: Visual Studio Code.
   - Consume los servicios expuestos por la API REST.
   - Interfaz intuitiva, accesible y adaptada a web.
@@ -83,7 +83,7 @@ Se ha implementado bajo los principios SOLID y utilizando tecnologías modernas 
 **4. Entornos de Desarrollo**
 
 **Descripción:** El proyecto se divide en dos entornos de desarrollo claramente diferenciados:
-  - Frontend (Angular 15): desarrollado en Visual Studio Code, lo que facilita la modularidad, integración el backend de Visual Studio 2022.
+  - Frontend (Angular 14): desarrollado en Visual Studio Code, lo que facilita la modularidad, integración el backend de Visual Studio 2022.
   - Backend (ASP.NET Core 7, C#): desarrollado en Visual Studio 2022, aprovechando sus herramientas avanzadas de depuración, integración con SQL Server y soporte para arquitecturas en capas.
 
 ---
