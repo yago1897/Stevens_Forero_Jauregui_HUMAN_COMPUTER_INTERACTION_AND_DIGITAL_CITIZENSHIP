@@ -199,6 +199,16 @@ Así se visualiza la vista del módulo  **Reportes**
 ---
 
 
+**Conclusión**
+
+El consumo de la API-REST del Sistema Venta Ecommerce desde Angular permite la integración total del frontend con el backend, y esto garantiza las operaciones CRUD seguras y eficientes. Gracias a la autenticación JWT, se asegura la protección de los recursos y el acceso a la información.
+
+
+**Referencias**
+
+- https://angular.io/guide/http
+- https://learn.microsoft.com/aspnet/core/security/authentication/jwt
+- https://material.angular.dev/
 
 
 
