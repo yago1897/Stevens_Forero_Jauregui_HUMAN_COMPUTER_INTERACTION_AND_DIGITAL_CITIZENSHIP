@@ -90,7 +90,7 @@ Con el editor de código VS-Code se ejecuta la aplicación escribiendo el siguie
 
 Y se observa que la aplicación se ejecuta en el puerto 4200 como se aprecia en la imagen.
 
-![image](https://github.com/user-attachments/assets/3c5fb3f0-7eb5-43cd-b711-82895747e633)
+<img width="1278" height="583" alt="image" src="https://github.com/user-attachments/assets/b25161f5-c638-4e37-a674-984c41585703" />
 
 
 ---
