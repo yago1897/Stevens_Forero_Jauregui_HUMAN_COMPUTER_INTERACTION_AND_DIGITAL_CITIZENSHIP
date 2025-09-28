@@ -3,7 +3,7 @@
 
 **Introducción**
 
-El diseño de formularios y vistas en el frontend busca ofrecer una experiencia de usuario clara, accesible y coherente con los objetivos del sistema. A través de Angular 15 y buenas prácticas de usabilidad, se estructuran pantallas que permiten la interacción directa con los módulos principales de la aplicación Sitema de Venta Ecommerce.
+El diseño de formularios y vistas en el frontend busca ofrecer una experiencia de usuario clara, accesible y coherente con los objetivos del sistema. A través de Angular 14 y buenas prácticas de usabilidad, se estructuran pantallas que permiten la interacción directa con los módulos principales de la aplicación Sitema de Venta Ecommerce.
 
 ---
 
@@ -94,7 +94,7 @@ En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se 
 
 **Modo en que se realizó el frontedn la plataforma Ecommerce.**
 
-El diseño y las vistas fue realizada por Angular versión 15, en este caso ya está funcionando ya que está conectada a base de datos sql server y el backend realizado en la plataforma .Net-Core cuyo lenguaje de programación es C-sharp (C#).
+El diseño y las vistas fue realizada por Angular versión 14, en este caso ya está funcionando ya que está conectada a base de datos sql server y el backend realizado en la plataforma .Net-Core cuyo lenguaje de programación es C-sharp (C#).
 
 ---
 
