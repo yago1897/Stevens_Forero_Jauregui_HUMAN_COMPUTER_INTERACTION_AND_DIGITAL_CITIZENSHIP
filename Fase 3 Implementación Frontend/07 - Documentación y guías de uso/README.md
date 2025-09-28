@@ -128,22 +128,41 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 
 ---
 
-4.2 Funcionalidades principales
+**4.2 Funcionalidades principales**
 
-Visualización general del estado de la plataforma Ecommerce.
+- Visualización general del estado de la plataforma Ecommerce.
 
-Acceso directo a usuarios, productos, ventas, historial y reportes.
+- Acceso directo a usuarios, productos, ventas, historial y reportes.
 
-5. Módulo Usuarios
-5.1 Crear usuario
+---
 
-Ingresar al módulo Usuarios.
+**5. Módulo Usuarios**
+- 5.1 Crear usuario
 
-Seleccionar la opción Crear usuario.
+- Ingresar al módulo Usuarios.
 
-Llenar el formulario con los datos solicitados.
+- Seleccionar la opción Crear usuario.
 
-Guardar los cambios.
+<img width="1229" height="585" alt="image" src="https://github.com/user-attachments/assets/668d6586-f476-4383-b609-9fa190ff9fe9" />
+
+
+---
+
+
+- Llenar el formulario con los datos solicitados.
+
+<img width="1278" height="616" alt="image" src="https://github.com/user-attachments/assets/b5105855-76e2-4eda-9e7c-defcefc2e724" />
+
+
+---
+
+
+- Guardar los cambios.
+
+<img width="1187" height="607" alt="image" src="https://github.com/user-attachments/assets/5af5e4d2-35f2-4a3e-9571-ecee1bca19ea" />
+
+---
+
 
 5.2 Editar usuario
 
