@@ -95,6 +95,24 @@ Y se observa que la aplicación se ejecuta en el puerto 4200 como se aprecia en 
 
 ---
 
+Consumo de Apis-Rest de **Roles** que lista los roles de los usuarios
+
+---
+
+<img width="1138" height="653" alt="image" src="https://github.com/user-attachments/assets/ad2f4927-8e52-4b77-be5e-c1654afd96f1" />
+
+
+---
+
+Asi se visualiza al desplegar la lista de Roles en el módulo **Usuarios**
+
+---
+
+<img width="1221" height="628" alt="image" src="https://github.com/user-attachments/assets/075cf4c6-fed0-4961-93a3-fb3f89705435" />
+
+
+---
+
 
 **Módulo Productos**
 
@@ -181,20 +199,7 @@ Así se visualiza la vista del módulo  **Reportes**
 ---
 
 
-Consumo de Apis-Rest de **Roles** que lista los roles de los usuarios
 
----
-
-<img width="1138" height="653" alt="image" src="https://github.com/user-attachments/assets/ad2f4927-8e52-4b77-be5e-c1654afd96f1" />
-
-
----
-
-Asi se visualiza al desplegar la lista de Roles en el módulo **Usuarios**
-
----
-
-<img width="1221" height="628" alt="image" src="https://github.com/user-attachments/assets/075cf4c6-fed0-4961-93a3-fb3f89705435" />
 
 
 
