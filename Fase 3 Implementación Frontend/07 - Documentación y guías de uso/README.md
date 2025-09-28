@@ -49,7 +49,6 @@
 
 **Estado de la Interfaz**
 - 10.1 Indicadores visuales (mensajes de éxito, error, advertencias)
-- 10.2 Retroalimentación al usuario
 
 **Soporte y Contacto**
 - 11.1 Información de contacto
@@ -133,6 +132,8 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 - Visualización general del estado de la plataforma Ecommerce.
 
 - Acceso directo a usuarios, productos, ventas, historial y reportes.
+
+- Resumen de ingresos totales, ventas totales y total productos.
 
 ---
 
@@ -369,39 +370,38 @@ El dashboard es la pantalla inicial tras iniciar sesión, en donde comunica a lo
 
 <img width="1232" height="423" alt="image" src="https://github.com/user-attachments/assets/c057acbe-fb75-4099-bd67-11fd58686aec" />
 
+---
+
+<img width="1280" height="269" alt="image" src="https://github.com/user-attachments/assets/1be38a3f-85a8-451d-8f52-44db948d5297" />
+
+
 
 **10. Estado de la Interfaz**
 
 - 10.1 Indicadores visuales
 
-- El sistema muestra mensajes de confirmación, error o advertencia según la acción realizada.
+- El sistema muestra mensajes de confirmación, registro, edición, eliminación, error o advertencia según la acción realizada.
+
 
 ---
 
 
 
-**10.2 Retroalimentación al usuario**
+**11. Soporte y Contacto**
+- 11.1 Información de contacto
 
-Verde: operación exitosa.
+- Para soporte técnico, contactar al área de sistemas de la organización.
 
-Rojo: error en la operación.
+**11.2 Canales de soporte**
 
-Amarillo: advertencia o datos incompletos.
+- Correo electrónico: soporte@empresa.com
 
-11. Soporte y Contacto
-11.1 Información de contacto
+- Teléfono: +57 3045424551
 
-Para soporte técnico, contactar al área de sistemas de la organización.
+- Horario de atención: Lunes a viernes de 8:00 a.m. a 6:00 p.m.
 
-11.2 Canales de soporte
+**Conclusión:**
 
-Correo electrónico: soporte@empresa.com
-
-Teléfono: +57 000 000 0000
-
-Horario de atención: Lunes a viernes de 8:00 a.m. a 6:00 p.m.
-
-✅ Conclusión:
-Este manual permite a los usuarios comprender de forma clara cómo interactuar con el sistema de venta eCommerce, facilitando la gestión de usuarios, productos y ventas, así como la consulta de historiales y la generación de reportes.
+Este manual permite a los usuarios comprender de forma clara cómo interactuar con el Sistema Venta Ecommerce, facilitando la gestión de usuarios, productos y ventas, así como la consulta de historiales y la generación de reportes.
 
 
