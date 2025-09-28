@@ -15,18 +15,18 @@
 - 2.2 Acceso al sistema
 
 **Ingreso al Sistema**
--3.1 Pantalla de login
+- 3.1 Pantalla de login
 
 
 **Módulo Dashboard Principal**
--4.1 Descripción general
--4.2 Funcionalidades principales
+- 4.1 Descripción general
+- 4.2 Funcionalidades principales
 
 **Módulo Usuarios**
--5.1 Crear usuario
--5.2 Editar usuario
--5.3 Eliminar usuario
--5.4 Consultar usuario
+- 5.1 Crear usuario
+- 5.2 Editar usuario
+- 5.3 Eliminar usuario
+- 5.4 Consultar usuario
 
 Módulo Productos
 6.1 Crear producto
