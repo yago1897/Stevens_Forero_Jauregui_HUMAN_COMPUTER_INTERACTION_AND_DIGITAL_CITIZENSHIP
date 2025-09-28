@@ -1,4 +1,4 @@
-# Fase 3 Implementación Frontend/06 - Pruebas preliminares de usabilidad y accesibilidad/README.md
+# Pruebas preliminares de usabilidad y accesibilidad
 
 ---
 
