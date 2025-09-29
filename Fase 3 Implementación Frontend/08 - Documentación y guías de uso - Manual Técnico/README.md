@@ -44,6 +44,7 @@ Está dirigido a desarrolladores, administradores de sistemas y personal de sopo
 
 
 **2. Requisitos del Sistema**
+
 **2.1. Hardware**
 
 - Procesador: Intel i5 o superior
