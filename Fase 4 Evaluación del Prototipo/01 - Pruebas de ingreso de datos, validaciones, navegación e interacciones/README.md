@@ -54,13 +54,10 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-Las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo
+- Las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo y los campos validan su obligatoriedad
 
 ![image](https://github.com/user-attachments/assets/23929bcf-3db0-47cd-ac8b-50fd0b93e404)
 
-
-
-Intentar registrar un usuario con todos los campos obligatorios completos (resultado esperado: registro exitoso).
 
 ---
 
