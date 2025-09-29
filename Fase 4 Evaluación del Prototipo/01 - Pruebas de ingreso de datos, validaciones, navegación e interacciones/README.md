@@ -12,7 +12,6 @@ Las pruebas de ingreso de datos, validaciones, navegación e interacciones tiene
 
 **Login**
 
---
 
 - Validación de campos obligatorios y formato de contraseña
 
@@ -52,6 +51,13 @@ En este caso ya se ingresa el email y contraseña correctos para poder ingresar
 **Usuarios:**
 
 Intentar registrar un usuario con todos los campos obligatorios completos (resultado esperado: registro exitoso).
+
+---
+
+Del mismo modo las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo
+
+![image](https://github.com/user-attachments/assets/23929bcf-3db0-47cd-ac8b-50fd0b93e404)
+
 
 Ingresar un correo en formato inválido (resultado esperado: mensaje de error).
 
