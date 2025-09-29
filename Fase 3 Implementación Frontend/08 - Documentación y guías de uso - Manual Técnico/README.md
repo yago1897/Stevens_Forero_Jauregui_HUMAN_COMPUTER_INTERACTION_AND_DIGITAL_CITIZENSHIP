@@ -35,7 +35,7 @@
 
 ---
 
-1. Introducción
+**1. Introducción**
 
 Este manual técnico tiene como objetivo proporcionar la información necesaria para la instalación, configuración, despliegue y mantenimiento del Sistema de Venta Ecommerce.
 Está dirigido a desarrolladores, administradores de sistemas y personal de soporte técnico, garantizando que el sistema pueda mantenerse y evolucionar de manera ordenada y eficiente.
