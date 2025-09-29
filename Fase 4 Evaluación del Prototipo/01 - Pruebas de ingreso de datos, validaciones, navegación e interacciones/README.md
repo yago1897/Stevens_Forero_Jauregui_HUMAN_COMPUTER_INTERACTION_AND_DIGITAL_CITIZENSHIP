@@ -24,6 +24,8 @@ Como se aprecia en la imagen los campos validan su obligatoriedad
 
 ---
 
+- Ingresar un correo en formato inválido (resultado esperado: mensaje de error).
+  
 En este caso también valida que el formato del correo electrónico sea el formato correcto como se ve en la imagen
 
 ![image](https://github.com/user-attachments/assets/cdccb09f-a332-40d9-aeb9-b97d2a4f5e7c)
@@ -40,7 +42,7 @@ Se ingresan las credenciales equivocadas y arroja el mensaje de alerta notifican
 
 
 
-En este caso ya se ingresa el email y contraseña correctos para poder ingresar
+Se ingresa el email y contraseña correctos para poder ingresar
 
 ![image](https://github.com/user-attachments/assets/1b8be49e-93e9-4225-8fa6-2b58f0be9219)
 
@@ -48,20 +50,21 @@ En este caso ya se ingresa el email y contraseña correctos para poder ingresar
 ---
 
 
-**Usuarios:**
+**Módulo Usuarios:**
+
+---
+
+Las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo
+
+![image](https://github.com/user-attachments/assets/23929bcf-3db0-47cd-ac8b-50fd0b93e404)
+
+
 
 Intentar registrar un usuario con todos los campos obligatorios completos (resultado esperado: registro exitoso).
 
 ---
 
-Del mismo modo las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo
 
-![image](https://github.com/user-attachments/assets/23929bcf-3db0-47cd-ac8b-50fd0b93e404)
-
-
-Ingresar un correo en formato inválido (resultado esperado: mensaje de error).
-
-Dejar campos obligatorios vacíos (resultado esperado: alerta de validación).
 
 Productos:
 
