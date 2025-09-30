@@ -212,7 +212,7 @@ En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se 
 ---
 
 
-**2. Pruebas de navegación**
+**3. Pruebas de navegación**
 
 - Desde el Login ingresar al Dashboard correctamente tras ingreso de credenciales.
 
@@ -223,7 +223,7 @@ En el filtro de búsquedas por fecha se coloca la fecha del día de compra y se 
 ---
 
 
-**3. Pruebas de interacciones**
+**4. Pruebas de interacciones**
 
 - Botones de guardar, editar, eliminar responden de forma inmediata.
 
