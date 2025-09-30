@@ -88,7 +88,8 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/de13d29e-c910-4c29-8dcc-c35183041e1f" />
+<img width="1214" height="613" alt="image" src="https://github.com/user-attachments/assets/b7bac538-712a-4227-8c87-984671dd9918" />
+
 
 ---
 
@@ -99,14 +100,13 @@ Se ingresa el email y contraseña correctos para poder ingresar
 - Validación del campo **Buscar producto** que sólo permite ingresar letras y no números.
 
 
+---
 
+<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/de13d29e-c910-4c29-8dcc-c35183041e1f" />
 
 ---
 
 
----
-
-<img width="1214" height="613" alt="image" src="https://github.com/user-attachments/assets/b7bac538-712a-4227-8c87-984671dd9918" />
 
 ---
 
