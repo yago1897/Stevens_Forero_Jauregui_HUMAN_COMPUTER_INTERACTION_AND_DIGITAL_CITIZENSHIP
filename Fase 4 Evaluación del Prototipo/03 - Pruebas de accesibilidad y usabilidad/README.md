@@ -58,7 +58,7 @@ Al realizar las pruebas de usabilidad en el Sistema Venta Ecommerce se busca med
 
 **Facilidad de aprendizaje:** El usuario al navegar en el sistema puede aprender rápidamente, realizar las tareas sin ayuda ya que la interfaz es clara y consistente.
 
-**Consistencia:** El usuario al navegar en el sistema sin problema ya que los formularios sigen el mismo diseño (colores, tipografía, validaciones, etc.).
+**Consistencia:** El usuario puede navegar en el sistema sin problema ya que los formularios siguen el mismo diseño (colores, tipografía, validaciones, etc.).
 
 **Eficiencia:** El usuario puede realizar una venta completa, consultar historial y generar reportes en pocos clics y sin errores y el tiempo de respuesta que tarda de navegar de módulo en módulo es ágil, rápido y fluído.
 
