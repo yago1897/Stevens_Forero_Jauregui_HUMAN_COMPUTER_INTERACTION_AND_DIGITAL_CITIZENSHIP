@@ -80,10 +80,15 @@ Se ingresa el email y contraseña correctos para poder ingresar
 - Validación del campo **Nombre** que sólo permite ingresar letras y no números.
 - Validación del campo **Stock** que sólo permite ingresar números y no letras.
 - Validación del campo **Precio** que sólo permite ingresar números y no letras.
+- Validación del campo **Stock** La cantidad no puede ser menor a 1.
 
 ---
 
 <img width="1278" height="632" alt="image" src="https://github.com/user-attachments/assets/0ce7c583-388b-4b4c-8795-51ff4c0025a7" />
+
+---
+
+<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/de13d29e-c910-4c29-8dcc-c35183041e1f" />
 
 ---
 
@@ -92,12 +97,12 @@ Se ingresa el email y contraseña correctos para poder ingresar
 - Validación de campos obligarorios.
 - No se activa el botón **Agregar al carrito** hasta que no se llenen los campos por completo.
 - Validación del campo **Buscar producto** que sólo permite ingresar letras y no números.
-- Validación del campo **Stock** que sólo permite ingresar números y no letras.
-- Validación del campo **Stock** La cantidad no puede ser menor a 1.
+
+
 
 
 ---
-<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/de13d29e-c910-4c29-8dcc-c35183041e1f" />
+
 
 ---
 
