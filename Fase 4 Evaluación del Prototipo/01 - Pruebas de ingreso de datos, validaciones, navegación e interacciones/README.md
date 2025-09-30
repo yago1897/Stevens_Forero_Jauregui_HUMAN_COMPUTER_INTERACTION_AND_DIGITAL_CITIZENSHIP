@@ -68,7 +68,18 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-<img width="1280" height="600" alt="image" src="https://github.com/user-attachments/assets/0eefa06a-96a0-4816-9e3a-ce7b31c91163" />
+<img width="1272" height="561" alt="image" src="https://github.com/user-attachments/assets/a9292499-bcb2-481f-8ad2-fb1483f745b9" />
+
+
+---
+
+- Se observa que el usuario ha sido agregado exitosamente como se aprecia en la imagen.
+
+<img width="1227" height="589" alt="image" src="https://github.com/user-attachments/assets/96529e56-45bc-4a41-a329-a1d93440a35b" />
+
+
+
+
 
 ---
 
