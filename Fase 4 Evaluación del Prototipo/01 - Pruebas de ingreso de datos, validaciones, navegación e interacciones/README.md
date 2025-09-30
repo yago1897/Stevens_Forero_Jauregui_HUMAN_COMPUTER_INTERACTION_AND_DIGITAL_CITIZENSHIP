@@ -119,7 +119,7 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-**Módulo Historial Ventas:**
+**Módulo Reportes**
 ---
 
 - Validación de campos obligarorios donde indica que se deben ingresar ambas fechas.
@@ -127,14 +127,14 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-<img width="1280" height="456" alt="image" src="https://github.com/user-attachments/assets/62fe34ed-a222-4ef8-973f-0e679dd295c2" />
-
-
----
-
 <img width="1278" height="440" alt="image" src="https://github.com/user-attachments/assets/fe746629-aa02-4616-9a4f-069b13052227" />
 
+
 ---
+
+
+
+
 
 
 
