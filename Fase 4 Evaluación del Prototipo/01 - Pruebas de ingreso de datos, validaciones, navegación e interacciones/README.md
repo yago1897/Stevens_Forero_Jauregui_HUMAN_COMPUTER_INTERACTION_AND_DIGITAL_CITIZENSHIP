@@ -54,7 +54,13 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-- Las validaciones de los campos ocurren en el módulo Agregar Usuarios, no se activa el botón guardar hasta que no se llenen los campos por completo y los campos validan su obligatoriedad
+**Las validaciones de los campos ocurren en el módulo Agregar Usuarios y Editar usuarios**
+
+- Validación de campos obligarorios.
+- No se activa el botón guardar hasta que no se llenen los campos por completo.
+- Otras validaciones como el campo **Nombre completo** sólo deja ingresar letras y no números.
+
+---
 
 ![image](https://github.com/user-attachments/assets/23929bcf-3db0-47cd-ac8b-50fd0b93e404)
 
@@ -63,14 +69,41 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 
 
-Productos:
+**Módulo Productos:**
 
-Crear un producto con precio negativo (resultado esperado: error de validación).
+---
 
-Crear un producto con nombre y precio correctos (resultado esperado: registro exitoso).
+**Las validaciones de los campos ocurren en el módulo Agregar Productos y Editar Productos**
 
-Ventas:
+- Validación de campos obligarorios.
+- No se activa el botón guardar hasta que no se llenen los campos por completo.
+- Validación del campo **Nombre** que sólo permite ingresar letras y no números.
+- Validación del campo **Stock** que sólo permite ingresar números y no letras.
+- Validación del campo **Precio** que sólo permite ingresar números y no letras.
 
-Registrar una venta seleccionando producto y cantidad válidos (resultado esperado: compra registrada).
+---
 
-Intentar registrar una venta sin forma de pago (resultado esperado: error de validación).
+<img width="1278" height="632" alt="image" src="https://github.com/user-attachments/assets/0ce7c583-388b-4b4c-8795-51ff4c0025a7" />
+
+---
+
+**Módulo Ventas:**
+---
+- Validación de campos obligarorios.
+- No se activa el botón **Agregar al carrito** hasta que no se llenen los campos por completo.
+- Validación del campo **Buscar producto** que sólo permite ingresar letras y no números.
+- Validación del campo **Stock** que sólo permite ingresar números y no letras.
+- Validación del campo **Stock** La cantidad no puede ser menor a 1.
+
+
+---
+<img width="1280" height="465" alt="image" src="https://github.com/user-attachments/assets/de13d29e-c910-4c29-8dcc-c35183041e1f" />
+
+---
+
+<img width="1214" height="613" alt="image" src="https://github.com/user-attachments/assets/b7bac538-712a-4227-8c87-984671dd9918" />
+
+---
+
+
+
