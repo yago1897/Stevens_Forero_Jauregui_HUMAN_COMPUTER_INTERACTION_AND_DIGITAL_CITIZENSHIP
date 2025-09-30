@@ -80,7 +80,7 @@ Se ingresa el email y contraseña correctos para poder ingresar
 - Validación del campo **Nombre** que sólo permite ingresar letras y no números.
 - Validación del campo **Stock** que sólo permite ingresar números y no letras.
 - Validación del campo **Precio** que sólo permite ingresar números y no letras.
-- Validación del campo **Stock** La cantidad no puede ser menor a 1.
+- Validación del campo **Stock** La cantidad no puede ser menor a 1 como se aprecia en las 2 imágenes.
 
 ---
 
@@ -106,9 +106,40 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
+**Módulo Historial Ventas:**
+---
+
+- Validación de campos obligarorios donde indica que se deben ingresar ambas fechas.
+- Validación de los campo **Fecha Inicio** y **Fecha Fin** que sólo permite ingresar números y no letras.
+
+---
+
+<img width="1237" height="407" alt="image" src="https://github.com/user-attachments/assets/00dcc6ca-5770-4b55-8f94-f427cf2bab86" />
 
 
 ---
+
+**Módulo Historial Ventas:**
+---
+
+- Validación de campos obligarorios donde indica que se deben ingresar ambas fechas.
+- Validación de los campo **Fecha Inicio** y **Fecha Fin** que sólo permite ingresar números y no letras.
+
+---
+
+<img width="1280" height="456" alt="image" src="https://github.com/user-attachments/assets/62fe34ed-a222-4ef8-973f-0e679dd295c2" />
+
+
+---
+
+<img width="1278" height="440" alt="image" src="https://github.com/user-attachments/assets/fe746629-aa02-4616-9a4f-069b13052227" />
+
+---
+
+
+
+
+
 
 
 
