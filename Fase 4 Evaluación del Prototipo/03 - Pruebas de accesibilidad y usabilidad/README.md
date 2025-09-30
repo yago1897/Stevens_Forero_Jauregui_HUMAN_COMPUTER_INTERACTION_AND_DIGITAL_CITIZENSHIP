@@ -103,6 +103,7 @@ Al realizar las pruebas de usabilidad en el Sistema Venta Ecommerce se busca med
 
 <img width="1280" height="728" alt="image" src="https://github.com/user-attachments/assets/287fa075-3bd3-4dc8-bbe4-baa728e83ca0" />
 
+---
 
 **Agregar Usuarios:** En la ventana de **Agregar Usuario** evidencia 0 errores, 0 errores en el contraste del colores y cumplen con los atributos **Aria** que mejoran la accesibilidad.
 
@@ -181,7 +182,36 @@ El ícono de eliminar también cuenta con su texto alternativo como se aprecia e
 
 ---
 
+**Pruebas de Ergonomía:**
 
+---
+
+**Objetivo:** Validar que la interacción con el sistema sea cómoda, rápida y no provoque cansancio innecesario.
+
+---
+
+- **Distribución de elementos:** Se Reviso que los botones principales están en lugares visibles y de fácil acceso.
+  
+- **Minimizar la carga cognitiva:** Se Comprobó que no hay exceso de información en una sola pantalla.
+
+- **Mensajes:** Se comprobó que los mensajes de error, alertas, y exitosos son fáciles de entender para el usiario.
+
+---
+
+**Resultado final esperado:** La aplicación Sistema Venta Ecommerce resulta cómoda de usar, sin forzar la vista ni generar confusión en la interacción. 
+
+---
+
+
+**Conclusión**
+
+La incorporación de pruebas de accesibilidad, usabilidad y ergonomía para el Sistema Venta Ecommerce asegura que no solo sea funcional, sino también inclusivo, intuitivo y cómodo de utilizar. Estas pruebas permitieron identificar mejoras en la experiencia de usuario, fomentando un diseño más universal y eliminando impedimentos tecnológicos. De esta forma, se garantiza que el software pueda ser utilizado por un público más amplio, contribuyendo a su calidad, aceptación y éxito.
+
+
+**Referencias**
+
+- Sitio del  Dr. Nielsen  “https://www.nngroup.com/people/jakob-nielsen/.”
+- Sitio web oficial de lineamientos de WCAG 2.1  “https://www.w3.org/TR/WCAG21/”
 
 
 
