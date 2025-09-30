@@ -99,6 +99,11 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
+- Se observa que el usuario ha sido eliminado exitosamente como se aprecia en la imagen.
+
+<img width="1231" height="528" alt="image" src="https://github.com/user-attachments/assets/b7180dee-ec7f-4c5b-b889-cf0c1c79d9ff" />
+
+
 **Módulo Productos**
 
 ---
