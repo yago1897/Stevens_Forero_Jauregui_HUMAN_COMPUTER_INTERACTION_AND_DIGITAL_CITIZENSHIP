@@ -91,7 +91,7 @@ Se ingresa el email y contraseña correctos para poder ingresar
 
 ---
 
-**Eliminar un usuario** - se presiona en el ícono del recicalje como se aprecia en la imagen
+**Eliminar un usuario** - se presiona en el ícono del reciclaje como se aprecia en la imagen
 
 ---
 
