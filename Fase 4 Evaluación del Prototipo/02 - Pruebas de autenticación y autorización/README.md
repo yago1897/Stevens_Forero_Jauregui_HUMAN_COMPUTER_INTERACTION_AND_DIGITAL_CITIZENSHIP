@@ -3,7 +3,7 @@
 
 **Introducción**
 
-En esta etapa se verifican y realizan pruebas de inicio de sesión (autenticación) y el control de accesos a los distintos módulos del sistema (autorización), con el fin de que solo los usuarios con credenciales válidas puedan ingresar y que sus permisos se ajusten al rol asignado (administrador o empleado).
+En esta etapa se verifican y realizan pruebas de inicio de sesión (autenticación) y el control de accesos a los distintos módulos del sistema (autorización), con el fin de que solo los usuarios con credenciales válidas puedan ingresar y que sus permisos se ajusten al rol asignado (administrador o empleado) en el Sistema Venta Ecommerce.
 
 ---
 
