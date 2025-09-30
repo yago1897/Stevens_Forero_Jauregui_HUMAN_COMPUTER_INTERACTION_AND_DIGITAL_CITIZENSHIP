@@ -18,6 +18,7 @@ Las pruebas de ingreso de datos, validaciones, navegación e interacciones tiene
 ---
 
 Como se aprecia en la imagen los campos validan su obligatoriedad
+
 ---
 
 ![image](https://github.com/user-attachments/assets/528c2e6d-4ee1-4684-b9a8-13ac1f68319b)
