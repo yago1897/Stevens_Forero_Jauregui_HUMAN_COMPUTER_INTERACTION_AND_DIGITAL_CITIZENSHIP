@@ -21,7 +21,8 @@ Las pruebas de rendimiento lo que hace es medir la capacidad del sistema en cuan
 
 ---
 
-<img width="1005" height="606" alt="image" src="https://github.com/user-attachments/assets/08e2c130-451b-4167-bd3e-2b5175d48623" />
+<img width="1003" height="605" alt="image" src="https://github.com/user-attachments/assets/883093d0-9f0d-4695-935f-ffa2bee3e53d" />
+
 
 ---
 
