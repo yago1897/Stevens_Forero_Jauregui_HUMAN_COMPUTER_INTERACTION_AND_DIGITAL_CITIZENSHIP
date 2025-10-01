@@ -190,11 +190,11 @@ El ícono de eliminar también cuenta con su texto alternativo como se aprecia e
 
 ---
 
-- **Distribución de elementos:** Se Reviso que los botones principales están en lugares visibles y de fácil acceso.
+- **Distribución de elementos:** Se reviso que los botones principales están en lugares visibles y de fácil acceso.
   
 - **Minimizar la carga cognitiva:** Se Comprobó que no hay exceso de información en una sola pantalla.
 
-- **Mensajes:** Se comprobó que los mensajes de error, alertas, y exitosos son fáciles de entender para el usiario.
+- **Mensajes:** Se comprobó que los mensajes de error, alertas, y mensajes exitosos son fáciles de entender para el usuario.
 
 ---
 
