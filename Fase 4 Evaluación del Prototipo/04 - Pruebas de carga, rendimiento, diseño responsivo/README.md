@@ -15,7 +15,7 @@ Las pruebas de rendimiento lo que hace es medir la capacidad del sistema en cuan
 
 - Las pruebas se realiza mediante la herramienta **Apache JMeter** mide tiempos de respuesta simulando múltiples usuarios concurrentes.
   
-- Se realiza el flujo y paso a paso de la prueba como se ve a continuación en las imágenes
+- Se realiza el flujo y paso a paso de la prueba con 100 usuarios concurrentes como se ve a continuación en las imágenes.
 
 <img width="1013" height="603" alt="image" src="https://github.com/user-attachments/assets/e02e1082-e1b7-4fdb-bc4c-a5cb55062a8b" />
 
