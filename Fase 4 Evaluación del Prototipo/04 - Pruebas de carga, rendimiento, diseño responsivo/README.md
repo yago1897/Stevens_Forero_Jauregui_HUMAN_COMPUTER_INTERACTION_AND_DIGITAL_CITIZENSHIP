@@ -30,7 +30,12 @@ Las pruebas de rendimiento lo que hace es medir la capacidad del sistema en cuan
 
 ---
 
-<img width="1007" height="608" alt="image" src="https://github.com/user-attachments/assets/1d7d7c42-70a9-4f09-b835-5146a88c5bae" />
+Se valida el tiempo de respuesta del **inicio de sesión** ingresando las credenciales como **Administrador**, con 100 usuarios concurrentes al mismo tiempo. Se configura el servidor, la ruta, el puerto y el http como POST como se aprecia en la imagen
+
+---
+
+<img width="1000" height="603" alt="image" src="https://github.com/user-attachments/assets/45e82d6e-f214-42a2-9911-d3998fccaa77" />
+
 
 ---
 
