@@ -2,8 +2,24 @@
 
 ---
 
+**Introducción**
+
+Las pruebas de rendimiento y de diseño responsivo son esenciales para garantizar que una aplicación web no solo funcione correctamente.
+Las pruebas de rendimiento lo que hace es medir la capacidad del sistema en cuanto a tiempos de respuesta, estabilidad y consumo de los recursos, simulando múltiples usuarios concurrentes mediante herramientas como Apache JMeter. Por su parte, las pruebas de diseño responsivo validan que la interfaz se adapte correctamente a diferentes resoluciones (móvil, tableta y escritorio). Esto optimiza la experiencia del usuario y asegurar que la aplicación Sistema Venta Ecommerce esté lista para un entorno real de uso.
+
+---
+
+**Pruebas realizadas**
+
+---
+
+- Las pruebas se realiza mediante la herramienta **Apache JMeter** mide tiempos de respuesta simulando múltiples usuarios concurrentes.
+  
+- Se realiza el flujo y paso a paso de la prueba como se ve a continuación en las imágenes
+
 <img width="1013" height="603" alt="image" src="https://github.com/user-attachments/assets/e02e1082-e1b7-4fdb-bc4c-a5cb55062a8b" />
 
+---
 
 <img width="1005" height="606" alt="image" src="https://github.com/user-attachments/assets/08e2c130-451b-4167-bd3e-2b5175d48623" />
 
