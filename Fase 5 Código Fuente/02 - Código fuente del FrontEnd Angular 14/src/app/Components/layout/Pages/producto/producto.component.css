@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+}
+
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}
+::ng-deep .swal2-icon.swal2-warning .swal2-icon-content {
+  color: #cc8400 !important;
+}

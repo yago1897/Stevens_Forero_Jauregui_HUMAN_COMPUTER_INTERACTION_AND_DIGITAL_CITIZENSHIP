@@ -1,0 +1,16 @@
+
+table{
+    width: 100%;
+}
+
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}
+.my-warning-icon {
+  border-color: rgb(200, 40, 40, 1) !important; /* Borde del ícono */
+  color: rgb(200, 40, 40, 1) !important;        /* Color de relleno */
+}
+::ng-deep .swal2-icon.swal2-warning .swal2-icon-content {
+  color: #cc8400 !important;
+}

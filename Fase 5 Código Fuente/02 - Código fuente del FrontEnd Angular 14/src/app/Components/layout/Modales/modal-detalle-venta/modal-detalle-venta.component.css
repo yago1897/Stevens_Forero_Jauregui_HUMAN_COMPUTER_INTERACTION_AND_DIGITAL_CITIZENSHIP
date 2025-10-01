@@ -1,0 +1,8 @@
+table{
+    width: 100%;
+
+}
+.total-btn {
+  background-color: #C2185B; /* tono más oscuro */
+  color: #FFFFFF;            /* texto blanco */
+}
